@@ -3,7 +3,9 @@ using Microsoft.AspNetCore.Mvc;
 using BeyleqanSebeti.Models;
 
 namespace BeyleqanSebeti.Controllers;
-
+/// <summary>
+///  Burda ne var
+/// </summary>
 public class HomeController : Controller
 {
     private readonly ILogger<HomeController> _logger;
