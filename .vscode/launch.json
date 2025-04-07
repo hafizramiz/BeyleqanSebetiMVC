@@ -12,11 +12,11 @@
         "stopAtEntry": false,
         "launchBrowser": {
           "enabled": true,
-          "args": "http://127.0.0.1:5180" // Updated to a new port
+          "args": "http://127.0.0.1:5181" // Updated to a new port
         },
         "env": {
           "ASPNETCORE_ENVIRONMENT": "Development",
-          "ASPNETCORE_URLS": "http://127.0.0.1:5180" // Updated to a new port
+          "ASPNETCORE_URLS": "http://127.0.0.1:5181" // Updated to a new port
         }
       }
     ]
