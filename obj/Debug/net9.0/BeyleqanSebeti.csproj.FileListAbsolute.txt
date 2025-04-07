@@ -52,3 +52,9 @@
 /Users/nejat/BeyleqanSebeti/obj/Debug/net9.0/compressed/ltcv38tgn8-uydiqv09h2.gz
 /Users/nejat/BeyleqanSebeti/obj/Debug/net9.0/compressed/ez522hcdjo-6dwowm74tu.gz
 /Users/nejat/BeyleqanSebeti/obj/Debug/net9.0/compressed/0op63onk0e-g8mioufvz9.gz
+/Users/nejat/BeyleqanSebeti/bin/Debug/net9.0/publish/web.config
+/Users/nejat/BeyleqanSebeti/bin/Debug/net9.0/publish/appsettings.Development.json
+/Users/nejat/BeyleqanSebeti/bin/Debug/net9.0/publish/appsettings.json
+/Users/nejat/BeyleqanSebeti/bin/Debug/net9.0/publish/BeyleqanSebeti.deps.json
+/Users/nejat/BeyleqanSebeti/bin/Debug/net9.0/publish/BeyleqanSebeti.runtimeconfig.json
+/Users/nejat/BeyleqanSebeti/bin/Debug/net9.0/publish/BeyleqanSebeti.staticwebassets.endpoints.json

@@ -1,0 +1,7 @@
+/Users/nejat/BeyleqanSebeti/publish/BeyleqanSebeti
+/Users/nejat/BeyleqanSebeti/publish/appsettings.Development.json
+/Users/nejat/BeyleqanSebeti/publish/appsettings.json
+/Users/nejat/BeyleqanSebeti/publish/BeyleqanSebeti.dll
+/Users/nejat/BeyleqanSebeti/publish/BeyleqanSebeti.deps.json
+/Users/nejat/BeyleqanSebeti/publish/BeyleqanSebeti.runtimeconfig.json
+/Users/nejat/BeyleqanSebeti/publish/BeyleqanSebeti.pdb

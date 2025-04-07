@@ -61,6 +61,22 @@
       "PackagePath": "staticwebassets/img/icon-3.png"
     },
     {
+      "Id": "/Users/nejat/BeyleqanSebeti/wwwroot/img/icon-4.jpg",
+      "PackagePath": "staticwebassets/img/icon-4.jpg"
+    },
+    {
+      "Id": "/Users/nejat/BeyleqanSebeti/wwwroot/img/icon-5.jpg",
+      "PackagePath": "staticwebassets/img/icon-5.jpg"
+    },
+    {
+      "Id": "/Users/nejat/BeyleqanSebeti/wwwroot/img/icon-7.jpg",
+      "PackagePath": "staticwebassets/img/icon-7.jpg"
+    },
+    {
+      "Id": "/Users/nejat/BeyleqanSebeti/wwwroot/img/icon-8.jpg",
+      "PackagePath": "staticwebassets/img/icon-8.jpg"
+    },
+    {
       "Id": "/Users/nejat/BeyleqanSebeti/wwwroot/img/product-1.jpg",
       "PackagePath": "staticwebassets/img/product-1.jpg"
     },
