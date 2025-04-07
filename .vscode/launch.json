@@ -1,0 +1,23 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+      {
+        "name": "Launch BeyleqanSebeti",
+        "type": "coreclr",
+        "request": "launch",
+        "preLaunchTask": "build",
+        "program": "${workspaceFolder}/bin/Debug/net9.0/BeyleqanSebeti.dll", // Updated to net9.0
+        "args": [],
+        "cwd": "${workspaceFolder}",
+        "stopAtEntry": false,
+        "launchBrowser": {
+          "enabled": true,
+          "args": "http://127.0.0.1:5180" // Updated to a new port
+        },
+        "env": {
+          "ASPNETCORE_ENVIRONMENT": "Development",
+          "ASPNETCORE_URLS": "http://127.0.0.1:5180" // Updated to a new port
+        }
+      }
+    ]
+}

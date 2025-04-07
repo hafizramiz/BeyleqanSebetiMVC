@@ -17,12 +17,26 @@ public class HomeController : Controller
 
     public IActionResult Index()
     {
-        _logger.LogInformation("Index action method called.");
+        _logger.LogWarning("Index action method called.");
         return View();
     }
 
     public IActionResult Privacy()
     {
+        /// 
+        _logger.LogInformation("Privacy action method called.");
+         return View();
+         /// Burda baska action belirterek oraya gitmesini saglayabiliriz
+        // Redirect to the OtherPage action
+        //return RedirectToAction("Index");
+    }
+
+
+
+    
+    public IActionResult Deneme()
+    {
+        _logger.LogInformation("Deneme action method called.");
         return View();
     }
 

@@ -95,3 +95,4 @@
 /Users/nejat/BeyleqanSebeti/obj/Debug/net9.0/BeyleqanSebeti.pdb
 /Users/nejat/BeyleqanSebeti/obj/Debug/net9.0/BeyleqanSebeti.genruntimeconfig.cache
 /Users/nejat/BeyleqanSebeti/obj/Debug/net9.0/ref/BeyleqanSebeti.dll
+/Users/nejat/BeyleqanSebeti/obj/Debug/net9.0/BeyleqanSebeti.sourcelink.json
