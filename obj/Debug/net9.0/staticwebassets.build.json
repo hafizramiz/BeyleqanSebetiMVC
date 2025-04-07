@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "95b4t22nSNVzgoqr9q8zW6Y9ZrQYx4UEgO2jJ2M2Vt0=",
+  "Hash": "x2RH/qnN8OK+C85tT9i7wjc5X0P8CSf0qQ90wm6Fzy4=",
   "Source": "BeyleqanSebeti",
   "BasePath": "_content/BeyleqanSebeti",
   "Mode": "Default",
@@ -708,6 +708,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/img/carousel-23.jpg"
+    },
+    {
+      "Identity": "/Users/nejat/BeyleqanSebeti/wwwroot/img/carousel-3.jpg",
+      "SourceId": "BeyleqanSebeti",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/nejat/BeyleqanSebeti/wwwroot/",
+      "BasePath": "_content/BeyleqanSebeti",
+      "RelativePath": "img/carousel-3#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "zgexxo6d93",
+      "Integrity": "fXfSKGApbGOvOffllNItL3SanOPvMSMTW2fFI1yfi7k=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/img/carousel-3.jpg"
     },
     {
       "Identity": "/Users/nejat/BeyleqanSebeti/wwwroot/img/icon-1.png",
@@ -5200,6 +5221,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-zDKrLT+HxG/YAhJNeucMaA5bAoDgMOQa08665zX0YaI="
+        }
+      ]
+    },
+    {
+      "Route": "img/carousel-3.jpg",
+      "AssetFile": "/Users/nejat/BeyleqanSebeti/wwwroot/img/carousel-3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "725937"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fXfSKGApbGOvOffllNItL3SanOPvMSMTW2fFI1yfi7k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Apr 2025 21:30:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-fXfSKGApbGOvOffllNItL3SanOPvMSMTW2fFI1yfi7k="
+        }
+      ]
+    },
+    {
+      "Route": "img/carousel-3.zgexxo6d93.jpg",
+      "AssetFile": "/Users/nejat/BeyleqanSebeti/wwwroot/img/carousel-3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "725937"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fXfSKGApbGOvOffllNItL3SanOPvMSMTW2fFI1yfi7k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Apr 2025 21:30:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zgexxo6d93"
+        },
+        {
+          "Name": "label",
+          "Value": "img/carousel-3.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-fXfSKGApbGOvOffllNItL3SanOPvMSMTW2fFI1yfi7k="
         }
       ]
     },
