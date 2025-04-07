@@ -6,4 +6,13 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <_ContentIncludedByDefault Remove="publish\web.config" />
+    <_ContentIncludedByDefault Remove="publish\appsettings.Development.json" />
+    <_ContentIncludedByDefault Remove="publish\appsettings.json" />
+    <_ContentIncludedByDefault Remove="publish\BeyleqanSebeti.deps.json" />
+    <_ContentIncludedByDefault Remove="publish\BeyleqanSebeti.runtimeconfig.json" />
+    <_ContentIncludedByDefault Remove="publish\BeyleqanSebeti.staticwebassets.endpoints.json" />
+  </ItemGroup>
+
 </Project>

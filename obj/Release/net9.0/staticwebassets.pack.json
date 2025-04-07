@@ -49,6 +49,10 @@
       "PackagePath": "staticwebassets/img/carousel-23.jpg"
     },
     {
+      "Id": "/Users/nejat/BeyleqanSebeti/wwwroot/img/carousel-3.jpg",
+      "PackagePath": "staticwebassets/img/carousel-3.jpg"
+    },
+    {
       "Id": "/Users/nejat/BeyleqanSebeti/wwwroot/img/icon-1.png",
       "PackagePath": "staticwebassets/img/icon-1.png"
     },
@@ -59,6 +63,26 @@
     {
       "Id": "/Users/nejat/BeyleqanSebeti/wwwroot/img/icon-3.png",
       "PackagePath": "staticwebassets/img/icon-3.png"
+    },
+    {
+      "Id": "/Users/nejat/BeyleqanSebeti/wwwroot/img/icon-4.jpg",
+      "PackagePath": "staticwebassets/img/icon-4.jpg"
+    },
+    {
+      "Id": "/Users/nejat/BeyleqanSebeti/wwwroot/img/icon-5.jpg",
+      "PackagePath": "staticwebassets/img/icon-5.jpg"
+    },
+    {
+      "Id": "/Users/nejat/BeyleqanSebeti/wwwroot/img/icon-7.jpg",
+      "PackagePath": "staticwebassets/img/icon-7.jpg"
+    },
+    {
+      "Id": "/Users/nejat/BeyleqanSebeti/wwwroot/img/icon-8.jpg",
+      "PackagePath": "staticwebassets/img/icon-8.jpg"
+    },
+    {
+      "Id": "/Users/nejat/BeyleqanSebeti/wwwroot/img/icon-9.jpg",
+      "PackagePath": "staticwebassets/img/icon-9.jpg"
     },
     {
       "Id": "/Users/nejat/BeyleqanSebeti/wwwroot/img/product-1.jpg",
