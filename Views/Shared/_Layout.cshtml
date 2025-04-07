@@ -72,17 +72,18 @@
         <div class="collapse navbar-collapse" id="navbarCollapse">
             <div class="navbar-nav ms-auto p-4 p-lg-0">
                 <a class="nav-item nav-link active" asp-area="" asp-controller="Home" asp-action="Index">Ana Səhifə</a>
-                <a href="/BasicPage" class="nav-item nav-link">Haqqımızda</a>
-                <a href="/Products" class="nav-item nav-link">Məhsullar</a>
-                <div class="nav-item dropdown">
-                    <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Səhifələr</a>
-                    <div class="dropdown-menu m-0">
-                        <a href="blog.html" class="dropdown-item">Bloq Şəbəkəsi</a>
-                        <a href="feature.html" class="dropdown-item">Xüsusiyyətlərimiz</a>
-                        <a href="testimonial.html" class="dropdown-item">Rəylər</a>
-                        <a href="404.html" class="dropdown-item">404 Səhifə</a>
-                    </div>
-                </div>
+                <a class="nav-item nav-link active" asp-area="" asp-controller="About" asp-action="Index">Haqqımızda</a>
+                <a class="nav-item nav-link active" asp-area="" asp-controller="Product" asp-action="Index">Məhsullar</a>
+                @* Burdaki drow down butonu yoruma aldim *@
+                @* <div class="nav-item dropdown"> *@
+                @*     <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Səhifələr</a> *@
+                @*     <div class="dropdown-menu m-0"> *@
+                @*         <a href="blog.html" class="dropdown-item">Bloq Şəbəkəsi</a> *@
+                @*         <a href="feature.html" class="dropdown-item">Xüsusiyyətlərimiz</a> *@
+                @*         <a href="testimonial.html" class="dropdown-item">Rəylər</a> *@
+                @*         <a href="404.html" class="dropdown-item">404 Səhifə</a> *@
+                @*     </div> *@
+                @* </div> *@
                 <a class="nav-item nav-link" asp-area="" asp-controller="Contact" asp-action="Index">Əlaqə</a>
 
                 @* ornekbutton *@
@@ -114,12 +115,12 @@
 
 
 <!-- WhatsApp Floating Button Start-->
-@* <a href="https://wa.me/994515729572?text=Salam%2C%20Beyl%C9%99qan%20S%C9%99b%C9%99ti%20il%C9%99%20ba%C4%9Fl%C4%B1%20m%C9%99lumat%20almaq%20ist%C9%99yir%C9%99m."
+<a href="https://wa.me/994515729572?text=Salam%2C%20Beyl%C9%99qan%20S%C9%99b%C9%99ti%20il%C9%99%20ba%C4%9Fl%C4%B1%20m%C9%99lumat%20almaq%20ist%C9%99yir%C9%99m."
    class="whatsapp-float"
    target="_blank"
    title="WhatsApp ilə əlaqə">
-   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" width="50" height="50">
-</a> *@
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" width="50" height="50">
+</a>
 <!-- WhatsApp Floating Button  End-->
 
 
