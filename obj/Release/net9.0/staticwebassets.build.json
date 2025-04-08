@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "H3/oYKoBDUyHpllCVFJ0oGUKHCtMf8bkglaQ40+Mg4o=",
+  "Hash": "aQD5o/PX4nvBgE9qkseYNvLDIsLZrjH4kTqZ2aMHljw=",
   "Source": "BeyleqanSebeti",
   "BasePath": "_content/BeyleqanSebeti",
   "Mode": "Default",
@@ -248,6 +248,111 @@
       "OriginalItemSpec": "/Users/nejat/BeyleqanSebeti/wwwroot/lib/easing/easing.min.js"
     },
     {
+      "Identity": "/Users/nejat/BeyleqanSebeti/obj/Release/net9.0/compressed/kr7a2ab6xa-j3wy3vomxf.gz",
+      "SourceId": "BeyleqanSebeti",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/nejat/BeyleqanSebeti/obj/Release/net9.0/compressed/",
+      "BasePath": "_content/BeyleqanSebeti",
+      "RelativePath": "lib/owlcarousel/assets/owl.carousel.min#[.{fingerprint=j3wy3vomxf}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/nejat/BeyleqanSebeti/wwwroot/lib/owlcarousel/assets/owl.carousel.min.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "danwagbj37",
+      "Integrity": "5TdV0FCB5wZVlmmubElBU1W1oeObN7OulzlLN36eTgs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/nejat/BeyleqanSebeti/wwwroot/lib/owlcarousel/assets/owl.carousel.min.css"
+    },
+    {
+      "Identity": "/Users/nejat/BeyleqanSebeti/obj/Release/net9.0/compressed/ltcv38tgn8-uydiqv09h2.gz",
+      "SourceId": "BeyleqanSebeti",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/nejat/BeyleqanSebeti/obj/Release/net9.0/compressed/",
+      "BasePath": "_content/BeyleqanSebeti",
+      "RelativePath": "lib/waypoints/waypoints.min#[.{fingerprint=uydiqv09h2}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/nejat/BeyleqanSebeti/wwwroot/lib/waypoints/waypoints.min.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "z8k3y4vohn",
+      "Integrity": "vZTlOvmp6W3N0nlZzLAt4VK/2rpNS+gCrBAhTbXDQas=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/nejat/BeyleqanSebeti/wwwroot/lib/waypoints/waypoints.min.js"
+    },
+    {
+      "Identity": "/Users/nejat/BeyleqanSebeti/obj/Release/net9.0/compressed/q464mpoafw-bvb3mcnxs0.gz",
+      "SourceId": "BeyleqanSebeti",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/nejat/BeyleqanSebeti/obj/Release/net9.0/compressed/",
+      "BasePath": "_content/BeyleqanSebeti",
+      "RelativePath": "lib/owlcarousel/assets/owl.theme.default.min#[.{fingerprint=bvb3mcnxs0}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/nejat/BeyleqanSebeti/wwwroot/lib/owlcarousel/assets/owl.theme.default.min.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "guyete3equ",
+      "Integrity": "6IxNeN1yi05cKTbK2DCKJP2HWOX6GAQWkzi5kynRv5Q=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/nejat/BeyleqanSebeti/wwwroot/lib/owlcarousel/assets/owl.theme.default.min.css"
+    },
+    {
+      "Identity": "/Users/nejat/BeyleqanSebeti/obj/Release/net9.0/compressed/ufmre05cbp-xre24ck5s9.gz",
+      "SourceId": "BeyleqanSebeti",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/nejat/BeyleqanSebeti/obj/Release/net9.0/compressed/",
+      "BasePath": "_content/BeyleqanSebeti",
+      "RelativePath": "lib/owlcarousel/owl.carousel.min#[.{fingerprint=xre24ck5s9}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/nejat/BeyleqanSebeti/wwwroot/lib/owlcarousel/owl.carousel.min.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "4zo0vi0oj4",
+      "Integrity": "cIXDKjPuiz0apNTo851vxf/NePFxZfVKldSzcvS5AsU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/nejat/BeyleqanSebeti/wwwroot/lib/owlcarousel/owl.carousel.min.js"
+    },
+    {
+      "Identity": "/Users/nejat/BeyleqanSebeti/obj/Release/net9.0/compressed/w6mvz3ha3r-3sqe7mmf4b.gz",
+      "SourceId": "BeyleqanSebeti",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/nejat/BeyleqanSebeti/obj/Release/net9.0/compressed/",
+      "BasePath": "_content/BeyleqanSebeti",
+      "RelativePath": "lib/owlcarousel/assets/owl.theme.default#[.{fingerprint=3sqe7mmf4b}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/nejat/BeyleqanSebeti/wwwroot/lib/owlcarousel/assets/owl.theme.default.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "3btvoi0e3n",
+      "Integrity": "H8bDFMT2AtBxARErf/PyobRvLvTpaYRyO029ZF47H7w=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/nejat/BeyleqanSebeti/wwwroot/lib/owlcarousel/assets/owl.theme.default.css"
+    },
+    {
       "Identity": "/Users/nejat/BeyleqanSebeti/obj/Release/net9.0/compressed/xur9h92n2n-ksh729199v.gz",
       "SourceId": "BeyleqanSebeti",
       "SourceType": "Discovered",
@@ -290,90 +395,6 @@
       "OriginalItemSpec": "/Users/nejat/BeyleqanSebeti/wwwroot/lib/owlcarousel/assets/owl.theme.green.min.css"
     },
     {
-      "Identity": "/Users/nejat/BeyleqanSebeti/obj/Release/net9.0/compressed/kr7a2ab6xa-j3wy3vomxf.gz",
-      "SourceId": "BeyleqanSebeti",
-      "SourceType": "Discovered",
-      "ContentRoot": "/Users/nejat/BeyleqanSebeti/obj/Release/net9.0/compressed/",
-      "BasePath": "_content/BeyleqanSebeti",
-      "RelativePath": "lib/owlcarousel/assets/owl.carousel.min#[.{fingerprint=j3wy3vomxf}]?.css.gz",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "/Users/nejat/BeyleqanSebeti/wwwroot/lib/owlcarousel/assets/owl.carousel.min.css",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "Fingerprint": "danwagbj37",
-      "Integrity": "5TdV0FCB5wZVlmmubElBU1W1oeObN7OulzlLN36eTgs=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/nejat/BeyleqanSebeti/wwwroot/lib/owlcarousel/assets/owl.carousel.min.css"
-    },
-    {
-      "Identity": "/Users/nejat/BeyleqanSebeti/obj/Release/net9.0/compressed/q464mpoafw-bvb3mcnxs0.gz",
-      "SourceId": "BeyleqanSebeti",
-      "SourceType": "Discovered",
-      "ContentRoot": "/Users/nejat/BeyleqanSebeti/obj/Release/net9.0/compressed/",
-      "BasePath": "_content/BeyleqanSebeti",
-      "RelativePath": "lib/owlcarousel/assets/owl.theme.default.min#[.{fingerprint=bvb3mcnxs0}]?.css.gz",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "/Users/nejat/BeyleqanSebeti/wwwroot/lib/owlcarousel/assets/owl.theme.default.min.css",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "Fingerprint": "guyete3equ",
-      "Integrity": "6IxNeN1yi05cKTbK2DCKJP2HWOX6GAQWkzi5kynRv5Q=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/nejat/BeyleqanSebeti/wwwroot/lib/owlcarousel/assets/owl.theme.default.min.css"
-    },
-    {
-      "Identity": "/Users/nejat/BeyleqanSebeti/obj/Release/net9.0/compressed/ltcv38tgn8-uydiqv09h2.gz",
-      "SourceId": "BeyleqanSebeti",
-      "SourceType": "Discovered",
-      "ContentRoot": "/Users/nejat/BeyleqanSebeti/obj/Release/net9.0/compressed/",
-      "BasePath": "_content/BeyleqanSebeti",
-      "RelativePath": "lib/waypoints/waypoints.min#[.{fingerprint=uydiqv09h2}]?.js.gz",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "/Users/nejat/BeyleqanSebeti/wwwroot/lib/waypoints/waypoints.min.js",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "Fingerprint": "z8k3y4vohn",
-      "Integrity": "vZTlOvmp6W3N0nlZzLAt4VK/2rpNS+gCrBAhTbXDQas=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/nejat/BeyleqanSebeti/wwwroot/lib/waypoints/waypoints.min.js"
-    },
-    {
-      "Identity": "/Users/nejat/BeyleqanSebeti/obj/Release/net9.0/compressed/ufmre05cbp-xre24ck5s9.gz",
-      "SourceId": "BeyleqanSebeti",
-      "SourceType": "Discovered",
-      "ContentRoot": "/Users/nejat/BeyleqanSebeti/obj/Release/net9.0/compressed/",
-      "BasePath": "_content/BeyleqanSebeti",
-      "RelativePath": "lib/owlcarousel/owl.carousel.min#[.{fingerprint=xre24ck5s9}]?.js.gz",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "/Users/nejat/BeyleqanSebeti/wwwroot/lib/owlcarousel/owl.carousel.min.js",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "Fingerprint": "4zo0vi0oj4",
-      "Integrity": "cIXDKjPuiz0apNTo851vxf/NePFxZfVKldSzcvS5AsU=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/nejat/BeyleqanSebeti/wwwroot/lib/owlcarousel/owl.carousel.min.js"
-    },
-    {
       "Identity": "/Users/nejat/BeyleqanSebeti/obj/Release/net9.0/compressed/z2noazrxg5-6jqh9kdf47.gz",
       "SourceId": "BeyleqanSebeti",
       "SourceType": "Discovered",
@@ -414,27 +435,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/nejat/BeyleqanSebeti/wwwroot/css/bootstrap.min.css"
-    },
-    {
-      "Identity": "/Users/nejat/BeyleqanSebeti/obj/Release/net9.0/compressed/w6mvz3ha3r-3sqe7mmf4b.gz",
-      "SourceId": "BeyleqanSebeti",
-      "SourceType": "Discovered",
-      "ContentRoot": "/Users/nejat/BeyleqanSebeti/obj/Release/net9.0/compressed/",
-      "BasePath": "_content/BeyleqanSebeti",
-      "RelativePath": "lib/owlcarousel/assets/owl.theme.default#[.{fingerprint=3sqe7mmf4b}]?.css.gz",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "/Users/nejat/BeyleqanSebeti/wwwroot/lib/owlcarousel/assets/owl.theme.default.css",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "Fingerprint": "3btvoi0e3n",
-      "Integrity": "H8bDFMT2AtBxARErf/PyobRvLvTpaYRyO029ZF47H7w=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/nejat/BeyleqanSebeti/wwwroot/lib/owlcarousel/assets/owl.theme.default.css"
     },
     {
       "Identity": "/Users/nejat/BeyleqanSebeti/obj/Release/net9.0/scopedcss/bundle/BeyleqanSebeti.styles.css",
@@ -2768,27 +2768,6 @@
       "OriginalItemSpec": "wwwroot/scss/bootstrap/scss/mixins/_alert.scss"
     },
     {
-      "Identity": "/Users/nejat/BeyleqanSebeti/wwwroot/scss/bootstrap/scss/mixins/_box-shadow.scss",
-      "SourceId": "BeyleqanSebeti",
-      "SourceType": "Discovered",
-      "ContentRoot": "/Users/nejat/BeyleqanSebeti/wwwroot/",
-      "BasePath": "_content/BeyleqanSebeti",
-      "RelativePath": "scss/bootstrap/scss/mixins/_box-shadow#[.{fingerprint}]?.scss",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "mh3zh7muu9",
-      "Integrity": "lvaPre4KsM3hpZrviVsL+4y31sIPXwKM+fJzo9gpNyY=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/scss/bootstrap/scss/mixins/_box-shadow.scss"
-    },
-    {
       "Identity": "/Users/nejat/BeyleqanSebeti/wwwroot/scss/bootstrap/scss/mixins/_border-radius.scss",
       "SourceId": "BeyleqanSebeti",
       "SourceType": "Discovered",
@@ -2808,6 +2787,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/scss/bootstrap/scss/mixins/_border-radius.scss"
+    },
+    {
+      "Identity": "/Users/nejat/BeyleqanSebeti/wwwroot/scss/bootstrap/scss/mixins/_box-shadow.scss",
+      "SourceId": "BeyleqanSebeti",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/nejat/BeyleqanSebeti/wwwroot/",
+      "BasePath": "_content/BeyleqanSebeti",
+      "RelativePath": "scss/bootstrap/scss/mixins/_box-shadow#[.{fingerprint}]?.scss",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "mh3zh7muu9",
+      "Integrity": "lvaPre4KsM3hpZrviVsL+4y31sIPXwKM+fJzo9gpNyY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/scss/bootstrap/scss/mixins/_box-shadow.scss"
     },
     {
       "Identity": "/Users/nejat/BeyleqanSebeti/wwwroot/scss/bootstrap/scss/mixins/_breakpoints.scss",
@@ -10769,6 +10769,143 @@
       ]
     },
     {
+      "Route": "lib/owlcarousel/owl.carousel.min.js",
+      "AssetFile": "/Users/nejat/BeyleqanSebeti/obj/Release/net9.0/compressed/ufmre05cbp-xre24ck5s9.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000091058095"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10981"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cIXDKjPuiz0apNTo851vxf/NePFxZfVKldSzcvS5AsU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 20:13:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"s5TTOyp+xlSmsDfr/aZhg0Gz+JejYr5iTJI8JxG1SkM=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-s5TTOyp+xlSmsDfr/aZhg0Gz+JejYr5iTJI8JxG1SkM="
+        }
+      ]
+    },
+    {
+      "Route": "lib/owlcarousel/owl.carousel.min.js",
+      "AssetFile": "/Users/nejat/BeyleqanSebeti/wwwroot/lib/owlcarousel/owl.carousel.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "42766"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"s5TTOyp+xlSmsDfr/aZhg0Gz+JejYr5iTJI8JxG1SkM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 20:13:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-s5TTOyp+xlSmsDfr/aZhg0Gz+JejYr5iTJI8JxG1SkM="
+        }
+      ]
+    },
+    {
+      "Route": "lib/owlcarousel/owl.carousel.min.js.gz",
+      "AssetFile": "/Users/nejat/BeyleqanSebeti/obj/Release/net9.0/compressed/ufmre05cbp-xre24ck5s9.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10981"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cIXDKjPuiz0apNTo851vxf/NePFxZfVKldSzcvS5AsU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 20:13:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-cIXDKjPuiz0apNTo851vxf/NePFxZfVKldSzcvS5AsU="
+        }
+      ]
+    },
+    {
       "Route": "lib/owlcarousel/owl.carousel.min.xre24ck5s9.js",
       "AssetFile": "/Users/nejat/BeyleqanSebeti/obj/Release/net9.0/compressed/ufmre05cbp-xre24ck5s9.gz",
       "Selectors": [
@@ -10923,143 +11060,6 @@
           "Name": "label",
           "Value": "lib/owlcarousel/owl.carousel.min.js.gz"
         },
-        {
-          "Name": "integrity",
-          "Value": "sha256-cIXDKjPuiz0apNTo851vxf/NePFxZfVKldSzcvS5AsU="
-        }
-      ]
-    },
-    {
-      "Route": "lib/owlcarousel/owl.carousel.min.js",
-      "AssetFile": "/Users/nejat/BeyleqanSebeti/obj/Release/net9.0/compressed/ufmre05cbp-xre24ck5s9.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000091058095"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "10981"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"cIXDKjPuiz0apNTo851vxf/NePFxZfVKldSzcvS5AsU=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 20:13:20 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"s5TTOyp+xlSmsDfr/aZhg0Gz+JejYr5iTJI8JxG1SkM=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-s5TTOyp+xlSmsDfr/aZhg0Gz+JejYr5iTJI8JxG1SkM="
-        }
-      ]
-    },
-    {
-      "Route": "lib/owlcarousel/owl.carousel.min.js",
-      "AssetFile": "/Users/nejat/BeyleqanSebeti/wwwroot/lib/owlcarousel/owl.carousel.min.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "42766"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"s5TTOyp+xlSmsDfr/aZhg0Gz+JejYr5iTJI8JxG1SkM=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 20:13:20 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-s5TTOyp+xlSmsDfr/aZhg0Gz+JejYr5iTJI8JxG1SkM="
-        }
-      ]
-    },
-    {
-      "Route": "lib/owlcarousel/owl.carousel.min.js.gz",
-      "AssetFile": "/Users/nejat/BeyleqanSebeti/obj/Release/net9.0/compressed/ufmre05cbp-xre24ck5s9.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "10981"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"cIXDKjPuiz0apNTo851vxf/NePFxZfVKldSzcvS5AsU=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 20:13:20 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
         {
           "Name": "integrity",
           "Value": "sha256-cIXDKjPuiz0apNTo851vxf/NePFxZfVKldSzcvS5AsU="
@@ -14585,6 +14585,43 @@
       ]
     },
     {
+      "Route": "scss/bootstrap/scss/_tooltip.scss",
+      "AssetFile": "/Users/nejat/BeyleqanSebeti/wwwroot/scss/bootstrap/scss/_tooltip.scss",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2602"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"AUZWGlkebg12HUfkYm9tDukdJkzPKUqQXnapsFDmTyY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 20:13:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-AUZWGlkebg12HUfkYm9tDukdJkzPKUqQXnapsFDmTyY="
+        }
+      ]
+    },
+    {
       "Route": "scss/bootstrap/scss/_tooltip.xsfo4jn76o.scss",
       "AssetFile": "/Users/nejat/BeyleqanSebeti/wwwroot/scss/bootstrap/scss/_tooltip.scss",
       "Selectors": [],
@@ -14623,43 +14660,6 @@
           "Name": "label",
           "Value": "scss/bootstrap/scss/_tooltip.scss"
         },
-        {
-          "Name": "integrity",
-          "Value": "sha256-AUZWGlkebg12HUfkYm9tDukdJkzPKUqQXnapsFDmTyY="
-        }
-      ]
-    },
-    {
-      "Route": "scss/bootstrap/scss/_tooltip.scss",
-      "AssetFile": "/Users/nejat/BeyleqanSebeti/wwwroot/scss/bootstrap/scss/_tooltip.scss",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "2602"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"AUZWGlkebg12HUfkYm9tDukdJkzPKUqQXnapsFDmTyY=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 20:13:28 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
         {
           "Name": "integrity",
           "Value": "sha256-AUZWGlkebg12HUfkYm9tDukdJkzPKUqQXnapsFDmTyY="
@@ -16717,6 +16717,88 @@
       ]
     },
     {
+      "Route": "scss/bootstrap/scss/mixins/_border-radius.scss",
+      "AssetFile": "/Users/nejat/BeyleqanSebeti/wwwroot/scss/bootstrap/scss/mixins/_border-radius.scss",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2031"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XUHARliU19oMYbWdYoYl9U9Cjgih5cWIw+ry3wWporg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 20:13:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-XUHARliU19oMYbWdYoYl9U9Cjgih5cWIw+ry3wWporg="
+        }
+      ]
+    },
+    {
+      "Route": "scss/bootstrap/scss/mixins/_border-radius.xjld3kyvjq.scss",
+      "AssetFile": "/Users/nejat/BeyleqanSebeti/wwwroot/scss/bootstrap/scss/mixins/_border-radius.scss",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2031"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XUHARliU19oMYbWdYoYl9U9Cjgih5cWIw+ry3wWporg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 20:13:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xjld3kyvjq"
+        },
+        {
+          "Name": "label",
+          "Value": "scss/bootstrap/scss/mixins/_border-radius.scss"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-XUHARliU19oMYbWdYoYl9U9Cjgih5cWIw+ry3wWporg="
+        }
+      ]
+    },
+    {
       "Route": "scss/bootstrap/scss/mixins/_box-shadow.mh3zh7muu9.scss",
       "AssetFile": "/Users/nejat/BeyleqanSebeti/wwwroot/scss/bootstrap/scss/mixins/_box-shadow.scss",
       "Selectors": [],
@@ -16795,88 +16877,6 @@
         {
           "Name": "integrity",
           "Value": "sha256-lvaPre4KsM3hpZrviVsL+4y31sIPXwKM+fJzo9gpNyY="
-        }
-      ]
-    },
-    {
-      "Route": "scss/bootstrap/scss/mixins/_border-radius.xjld3kyvjq.scss",
-      "AssetFile": "/Users/nejat/BeyleqanSebeti/wwwroot/scss/bootstrap/scss/mixins/_border-radius.scss",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "2031"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"XUHARliU19oMYbWdYoYl9U9Cjgih5cWIw+ry3wWporg=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 20:13:28 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "xjld3kyvjq"
-        },
-        {
-          "Name": "label",
-          "Value": "scss/bootstrap/scss/mixins/_border-radius.scss"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-XUHARliU19oMYbWdYoYl9U9Cjgih5cWIw+ry3wWporg="
-        }
-      ]
-    },
-    {
-      "Route": "scss/bootstrap/scss/mixins/_border-radius.scss",
-      "AssetFile": "/Users/nejat/BeyleqanSebeti/wwwroot/scss/bootstrap/scss/mixins/_border-radius.scss",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "2031"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"XUHARliU19oMYbWdYoYl9U9Cjgih5cWIw+ry3wWporg=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 20:13:28 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-XUHARliU19oMYbWdYoYl9U9Cjgih5cWIw+ry3wWporg="
         }
       ]
     },
@@ -17209,6 +17209,43 @@
       ]
     },
     {
+      "Route": "scss/bootstrap/scss/mixins/_color-scheme.scss",
+      "AssetFile": "/Users/nejat/BeyleqanSebeti/wwwroot/scss/bootstrap/scss/mixins/_color-scheme.scss",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "167"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PUQkIqq/GAkEs5pOBHwJmzks8Z5D8WY0g6wo6RUC1aU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 20:13:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-PUQkIqq/GAkEs5pOBHwJmzks8Z5D8WY0g6wo6RUC1aU="
+        }
+      ]
+    },
+    {
       "Route": "scss/bootstrap/scss/mixins/_color-scheme.x7qus63z9u.scss",
       "AssetFile": "/Users/nejat/BeyleqanSebeti/wwwroot/scss/bootstrap/scss/mixins/_color-scheme.scss",
       "Selectors": [],
@@ -17247,43 +17284,6 @@
           "Name": "label",
           "Value": "scss/bootstrap/scss/mixins/_color-scheme.scss"
         },
-        {
-          "Name": "integrity",
-          "Value": "sha256-PUQkIqq/GAkEs5pOBHwJmzks8Z5D8WY0g6wo6RUC1aU="
-        }
-      ]
-    },
-    {
-      "Route": "scss/bootstrap/scss/mixins/_color-scheme.scss",
-      "AssetFile": "/Users/nejat/BeyleqanSebeti/wwwroot/scss/bootstrap/scss/mixins/_color-scheme.scss",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "167"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"PUQkIqq/GAkEs5pOBHwJmzks8Z5D8WY0g6wo6RUC1aU=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 20:13:28 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
         {
           "Name": "integrity",
           "Value": "sha256-PUQkIqq/GAkEs5pOBHwJmzks8Z5D8WY0g6wo6RUC1aU="
@@ -18603,6 +18603,43 @@
       ]
     },
     {
+      "Route": "scss/bootstrap/scss/utilities/_api.scss",
+      "AssetFile": "/Users/nejat/BeyleqanSebeti/wwwroot/scss/bootstrap/scss/utilities/_api.scss",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1737"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"J1u2wMqzSJbTzd0+7iuJfJaklC1YIWRtuZssLZJSpJw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 20:13:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-J1u2wMqzSJbTzd0+7iuJfJaklC1YIWRtuZssLZJSpJw="
+        }
+      ]
+    },
+    {
       "Route": "scss/bootstrap/scss/utilities/_api.xmez0gzoln.scss",
       "AssetFile": "/Users/nejat/BeyleqanSebeti/wwwroot/scss/bootstrap/scss/utilities/_api.scss",
       "Selectors": [],
@@ -18641,43 +18678,6 @@
           "Name": "label",
           "Value": "scss/bootstrap/scss/utilities/_api.scss"
         },
-        {
-          "Name": "integrity",
-          "Value": "sha256-J1u2wMqzSJbTzd0+7iuJfJaklC1YIWRtuZssLZJSpJw="
-        }
-      ]
-    },
-    {
-      "Route": "scss/bootstrap/scss/utilities/_api.scss",
-      "AssetFile": "/Users/nejat/BeyleqanSebeti/wwwroot/scss/bootstrap/scss/utilities/_api.scss",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1737"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"J1u2wMqzSJbTzd0+7iuJfJaklC1YIWRtuZssLZJSpJw=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 20:13:28 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
         {
           "Name": "integrity",
           "Value": "sha256-J1u2wMqzSJbTzd0+7iuJfJaklC1YIWRtuZssLZJSpJw="

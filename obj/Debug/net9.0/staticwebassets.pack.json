@@ -17,6 +17,10 @@
       "PackagePath": "staticwebassets/img/about.jpg"
     },
     {
+      "Id": "/Users/nejat/BeyleqanSebeti/wwwroot/img/about1.jpg",
+      "PackagePath": "staticwebassets/img/about1.jpg"
+    },
+    {
       "Id": "/Users/nejat/BeyleqanSebeti/wwwroot/img/bg-icon.png",
       "PackagePath": "staticwebassets/img/bg-icon.png"
     },
@@ -39,6 +43,10 @@
     {
       "Id": "/Users/nejat/BeyleqanSebeti/wwwroot/img/carousel-11.jpg",
       "PackagePath": "staticwebassets/img/carousel-11.jpg"
+    },
+    {
+      "Id": "/Users/nejat/BeyleqanSebeti/wwwroot/img/carousel-1eski.jpg",
+      "PackagePath": "staticwebassets/img/carousel-1eski.jpg"
     },
     {
       "Id": "/Users/nejat/BeyleqanSebeti/wwwroot/img/carousel-2.jpg",
