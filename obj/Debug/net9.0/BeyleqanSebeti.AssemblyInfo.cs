@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BeyleqanSebeti")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2f55ad9eaca8c006cdbcee7efa8bdbc284b11333")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4831e40c714777910cb2d401c101cd9416d2281f")]
 [assembly: System.Reflection.AssemblyProductAttribute("BeyleqanSebeti")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BeyleqanSebeti")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

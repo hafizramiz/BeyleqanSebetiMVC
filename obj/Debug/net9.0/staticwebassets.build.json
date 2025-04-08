@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "NkeGljJ2NKzWMkOGgMCavQKJX8gYpWWg7TvuPVAfByM=",
+  "Hash": "FhBmF8lDyAUQ7wA/trxge8hqonCe0DrCd/oBhecqo44=",
   "Source": "BeyleqanSebeti",
   "BasePath": "_content/BeyleqanSebeti",
   "Mode": "Default",
@@ -939,6 +939,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/img/icon-9.jpg"
+    },
+    {
+      "Identity": "/Users/nejat/BeyleqanSebeti/wwwroot/img/icon-fast-delivery.png",
+      "SourceId": "BeyleqanSebeti",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/nejat/BeyleqanSebeti/wwwroot/",
+      "BasePath": "_content/BeyleqanSebeti",
+      "RelativePath": "img/icon-fast-delivery#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "r4zac4qizq",
+      "Integrity": "pfOWtesMqYaDz9LRT4CMOrNn7dU/3+KvzSV48iXjG0g=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/img/icon-fast-delivery.png"
     },
     {
       "Identity": "/Users/nejat/BeyleqanSebeti/wwwroot/img/product-1.jpg",
@@ -4255,7 +4276,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 05 Apr 2025 10:29:33 GMT"
+          "Value": "Tue, 08 Apr 2025 20:03:15 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4308,7 +4329,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 05 Apr 2025 10:29:33 GMT"
+          "Value": "Tue, 08 Apr 2025 20:03:15 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4345,7 +4366,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 05 Apr 2025 10:29:33 GMT"
+          "Value": "Tue, 08 Apr 2025 20:03:15 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4392,7 +4413,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 05 Apr 2025 10:29:33 GMT"
+          "Value": "Tue, 08 Apr 2025 20:03:15 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4453,7 +4474,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 05 Apr 2025 10:29:33 GMT"
+          "Value": "Tue, 08 Apr 2025 20:03:15 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4498,7 +4519,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 05 Apr 2025 10:29:33 GMT"
+          "Value": "Tue, 08 Apr 2025 20:03:15 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6165,6 +6186,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-4ObeO13AB3tOr4gqVH5gIHHwiNSIVKzi13ts/lLTMvw="
+        }
+      ]
+    },
+    {
+      "Route": "img/icon-fast-delivery.png",
+      "AssetFile": "/Users/nejat/BeyleqanSebeti/wwwroot/img/icon-fast-delivery.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1217120"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pfOWtesMqYaDz9LRT4CMOrNn7dU/3+KvzSV48iXjG0g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Apr 2025 19:07:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-pfOWtesMqYaDz9LRT4CMOrNn7dU/3+KvzSV48iXjG0g="
+        }
+      ]
+    },
+    {
+      "Route": "img/icon-fast-delivery.r4zac4qizq.png",
+      "AssetFile": "/Users/nejat/BeyleqanSebeti/wwwroot/img/icon-fast-delivery.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1217120"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pfOWtesMqYaDz9LRT4CMOrNn7dU/3+KvzSV48iXjG0g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Apr 2025 19:07:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "r4zac4qizq"
+        },
+        {
+          "Name": "label",
+          "Value": "img/icon-fast-delivery.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-pfOWtesMqYaDz9LRT4CMOrNn7dU/3+KvzSV48iXjG0g="
         }
       ]
     },

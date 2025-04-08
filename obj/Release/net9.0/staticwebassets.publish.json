@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "DBG9h05WTVxes5tnHXjEYwBvN0VW1zzlndgED6jVybc=",
+  "Hash": "r69h9oRrQKIdMh+fGI1v9lHlTv6TJVLmJ1NkTZ5jKbM=",
   "Source": "BeyleqanSebeti",
   "BasePath": "_content/BeyleqanSebeti",
   "Mode": "Default",
@@ -248,6 +248,48 @@
       "OriginalItemSpec": "/Users/nejat/BeyleqanSebeti/wwwroot/lib/easing/easing.min.js"
     },
     {
+      "Identity": "/Users/nejat/BeyleqanSebeti/obj/Release/net9.0/compressed/xur9h92n2n-ksh729199v.gz",
+      "SourceId": "BeyleqanSebeti",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/nejat/BeyleqanSebeti/obj/Release/net9.0/compressed/",
+      "BasePath": "_content/BeyleqanSebeti",
+      "RelativePath": "css/style#[.{fingerprint=ksh729199v}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/nejat/BeyleqanSebeti/wwwroot/css/style.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "ghbz0qnwj0",
+      "Integrity": "5DwDP26CMKxg1Y903fVVkXDBYlt4JF9AqwQmzvku4Ug=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/nejat/BeyleqanSebeti/wwwroot/css/style.css"
+    },
+    {
+      "Identity": "/Users/nejat/BeyleqanSebeti/obj/Release/net9.0/compressed/xwuxb61r6u-1ktijcimzc.gz",
+      "SourceId": "BeyleqanSebeti",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/nejat/BeyleqanSebeti/obj/Release/net9.0/compressed/",
+      "BasePath": "_content/BeyleqanSebeti",
+      "RelativePath": "lib/owlcarousel/assets/owl.theme.green.min#[.{fingerprint=1ktijcimzc}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/nejat/BeyleqanSebeti/wwwroot/lib/owlcarousel/assets/owl.theme.green.min.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "wbbxgeuxok",
+      "Integrity": "ZCB3Xfvx7andR8OERLJ5PRKTQ1n1H8SKgNOaqfyWqh8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/nejat/BeyleqanSebeti/wwwroot/lib/owlcarousel/assets/owl.theme.green.min.css"
+    },
+    {
       "Identity": "/Users/nejat/BeyleqanSebeti/obj/Release/net9.0/compressed/kr7a2ab6xa-j3wy3vomxf.gz",
       "SourceId": "BeyleqanSebeti",
       "SourceType": "Discovered",
@@ -267,6 +309,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/nejat/BeyleqanSebeti/wwwroot/lib/owlcarousel/assets/owl.carousel.min.css"
+    },
+    {
+      "Identity": "/Users/nejat/BeyleqanSebeti/obj/Release/net9.0/compressed/q464mpoafw-bvb3mcnxs0.gz",
+      "SourceId": "BeyleqanSebeti",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/nejat/BeyleqanSebeti/obj/Release/net9.0/compressed/",
+      "BasePath": "_content/BeyleqanSebeti",
+      "RelativePath": "lib/owlcarousel/assets/owl.theme.default.min#[.{fingerprint=bvb3mcnxs0}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/nejat/BeyleqanSebeti/wwwroot/lib/owlcarousel/assets/owl.theme.default.min.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "guyete3equ",
+      "Integrity": "6IxNeN1yi05cKTbK2DCKJP2HWOX6GAQWkzi5kynRv5Q=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/nejat/BeyleqanSebeti/wwwroot/lib/owlcarousel/assets/owl.theme.default.min.css"
     },
     {
       "Identity": "/Users/nejat/BeyleqanSebeti/obj/Release/net9.0/compressed/ltcv38tgn8-uydiqv09h2.gz",
@@ -521,111 +584,6 @@
       "OriginalItemSpec": "/Users/nejat/BeyleqanSebeti/wwwroot/lib/easing/easing.min.js"
     },
     {
-      "Identity": "/Users/nejat/BeyleqanSebeti/obj/Release/net9.0/compressed/publish/kr7a2ab6xa-j3wy3vomxf.br",
-      "SourceId": "BeyleqanSebeti",
-      "SourceType": "Discovered",
-      "ContentRoot": "/Users/nejat/BeyleqanSebeti/obj/Release/net9.0/compressed/publish/",
-      "BasePath": "_content/BeyleqanSebeti",
-      "RelativePath": "lib/owlcarousel/assets/owl.carousel.min#[.{fingerprint=j3wy3vomxf}]?.css.br",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "/Users/nejat/BeyleqanSebeti/wwwroot/lib/owlcarousel/assets/owl.carousel.min.css",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "br",
-      "Fingerprint": "bul4p9ugni",
-      "Integrity": "bVv1xDxmnYKaR2nNfzgQSkNLNn2ZDZ6z47JgtjwDzNw=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/nejat/BeyleqanSebeti/wwwroot/lib/owlcarousel/assets/owl.carousel.min.css"
-    },
-    {
-      "Identity": "/Users/nejat/BeyleqanSebeti/obj/Release/net9.0/compressed/publish/ltcv38tgn8-uydiqv09h2.br",
-      "SourceId": "BeyleqanSebeti",
-      "SourceType": "Discovered",
-      "ContentRoot": "/Users/nejat/BeyleqanSebeti/obj/Release/net9.0/compressed/publish/",
-      "BasePath": "_content/BeyleqanSebeti",
-      "RelativePath": "lib/waypoints/waypoints.min#[.{fingerprint=uydiqv09h2}]?.js.br",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "/Users/nejat/BeyleqanSebeti/wwwroot/lib/waypoints/waypoints.min.js",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "br",
-      "Fingerprint": "z0nq0e9djx",
-      "Integrity": "7UAgBlxJL/qDj3IWIG+DOp3ooWJEt6j/RwmsXXainnw=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/nejat/BeyleqanSebeti/wwwroot/lib/waypoints/waypoints.min.js"
-    },
-    {
-      "Identity": "/Users/nejat/BeyleqanSebeti/obj/Release/net9.0/compressed/publish/q464mpoafw-bvb3mcnxs0.br",
-      "SourceId": "BeyleqanSebeti",
-      "SourceType": "Discovered",
-      "ContentRoot": "/Users/nejat/BeyleqanSebeti/obj/Release/net9.0/compressed/publish/",
-      "BasePath": "_content/BeyleqanSebeti",
-      "RelativePath": "lib/owlcarousel/assets/owl.theme.default.min#[.{fingerprint=bvb3mcnxs0}]?.css.br",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "/Users/nejat/BeyleqanSebeti/wwwroot/lib/owlcarousel/assets/owl.theme.default.min.css",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "br",
-      "Fingerprint": "54evaj6wdc",
-      "Integrity": "y9DP+2b96U2XXcJD6Ifxdnd7oSaeDbjqGSwQ+CwbYEI=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/nejat/BeyleqanSebeti/wwwroot/lib/owlcarousel/assets/owl.theme.default.min.css"
-    },
-    {
-      "Identity": "/Users/nejat/BeyleqanSebeti/obj/Release/net9.0/compressed/publish/ufmre05cbp-xre24ck5s9.br",
-      "SourceId": "BeyleqanSebeti",
-      "SourceType": "Discovered",
-      "ContentRoot": "/Users/nejat/BeyleqanSebeti/obj/Release/net9.0/compressed/publish/",
-      "BasePath": "_content/BeyleqanSebeti",
-      "RelativePath": "lib/owlcarousel/owl.carousel.min#[.{fingerprint=xre24ck5s9}]?.js.br",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "/Users/nejat/BeyleqanSebeti/wwwroot/lib/owlcarousel/owl.carousel.min.js",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "br",
-      "Fingerprint": "oj5t3kxa5h",
-      "Integrity": "rPvwrluyYIugUvodnsHMsI81noheN6bqH0wyyWLcNGA=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/nejat/BeyleqanSebeti/wwwroot/lib/owlcarousel/owl.carousel.min.js"
-    },
-    {
-      "Identity": "/Users/nejat/BeyleqanSebeti/obj/Release/net9.0/compressed/publish/w6mvz3ha3r-3sqe7mmf4b.br",
-      "SourceId": "BeyleqanSebeti",
-      "SourceType": "Discovered",
-      "ContentRoot": "/Users/nejat/BeyleqanSebeti/obj/Release/net9.0/compressed/publish/",
-      "BasePath": "_content/BeyleqanSebeti",
-      "RelativePath": "lib/owlcarousel/assets/owl.theme.default#[.{fingerprint=3sqe7mmf4b}]?.css.br",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "/Users/nejat/BeyleqanSebeti/wwwroot/lib/owlcarousel/assets/owl.theme.default.css",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "br",
-      "Fingerprint": "gru7jhaemd",
-      "Integrity": "hHGGnQjuiBjSfLvcHtlal+7aPca5gZ1Ki5kIS5NnSgg=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/nejat/BeyleqanSebeti/wwwroot/lib/owlcarousel/assets/owl.theme.default.css"
-    },
-    {
       "Identity": "/Users/nejat/BeyleqanSebeti/obj/Release/net9.0/compressed/publish/xur9h92n2n-ksh729199v.br",
       "SourceId": "BeyleqanSebeti",
       "SourceType": "Discovered",
@@ -666,6 +624,90 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/nejat/BeyleqanSebeti/wwwroot/lib/owlcarousel/assets/owl.theme.green.min.css"
+    },
+    {
+      "Identity": "/Users/nejat/BeyleqanSebeti/obj/Release/net9.0/compressed/publish/kr7a2ab6xa-j3wy3vomxf.br",
+      "SourceId": "BeyleqanSebeti",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/nejat/BeyleqanSebeti/obj/Release/net9.0/compressed/publish/",
+      "BasePath": "_content/BeyleqanSebeti",
+      "RelativePath": "lib/owlcarousel/assets/owl.carousel.min#[.{fingerprint=j3wy3vomxf}]?.css.br",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/nejat/BeyleqanSebeti/wwwroot/lib/owlcarousel/assets/owl.carousel.min.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "br",
+      "Fingerprint": "bul4p9ugni",
+      "Integrity": "bVv1xDxmnYKaR2nNfzgQSkNLNn2ZDZ6z47JgtjwDzNw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/nejat/BeyleqanSebeti/wwwroot/lib/owlcarousel/assets/owl.carousel.min.css"
+    },
+    {
+      "Identity": "/Users/nejat/BeyleqanSebeti/obj/Release/net9.0/compressed/publish/q464mpoafw-bvb3mcnxs0.br",
+      "SourceId": "BeyleqanSebeti",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/nejat/BeyleqanSebeti/obj/Release/net9.0/compressed/publish/",
+      "BasePath": "_content/BeyleqanSebeti",
+      "RelativePath": "lib/owlcarousel/assets/owl.theme.default.min#[.{fingerprint=bvb3mcnxs0}]?.css.br",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/nejat/BeyleqanSebeti/wwwroot/lib/owlcarousel/assets/owl.theme.default.min.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "br",
+      "Fingerprint": "54evaj6wdc",
+      "Integrity": "y9DP+2b96U2XXcJD6Ifxdnd7oSaeDbjqGSwQ+CwbYEI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/nejat/BeyleqanSebeti/wwwroot/lib/owlcarousel/assets/owl.theme.default.min.css"
+    },
+    {
+      "Identity": "/Users/nejat/BeyleqanSebeti/obj/Release/net9.0/compressed/publish/ltcv38tgn8-uydiqv09h2.br",
+      "SourceId": "BeyleqanSebeti",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/nejat/BeyleqanSebeti/obj/Release/net9.0/compressed/publish/",
+      "BasePath": "_content/BeyleqanSebeti",
+      "RelativePath": "lib/waypoints/waypoints.min#[.{fingerprint=uydiqv09h2}]?.js.br",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/nejat/BeyleqanSebeti/wwwroot/lib/waypoints/waypoints.min.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "br",
+      "Fingerprint": "z0nq0e9djx",
+      "Integrity": "7UAgBlxJL/qDj3IWIG+DOp3ooWJEt6j/RwmsXXainnw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/nejat/BeyleqanSebeti/wwwroot/lib/waypoints/waypoints.min.js"
+    },
+    {
+      "Identity": "/Users/nejat/BeyleqanSebeti/obj/Release/net9.0/compressed/publish/ufmre05cbp-xre24ck5s9.br",
+      "SourceId": "BeyleqanSebeti",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/nejat/BeyleqanSebeti/obj/Release/net9.0/compressed/publish/",
+      "BasePath": "_content/BeyleqanSebeti",
+      "RelativePath": "lib/owlcarousel/owl.carousel.min#[.{fingerprint=xre24ck5s9}]?.js.br",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/nejat/BeyleqanSebeti/wwwroot/lib/owlcarousel/owl.carousel.min.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "br",
+      "Fingerprint": "oj5t3kxa5h",
+      "Integrity": "rPvwrluyYIugUvodnsHMsI81noheN6bqH0wyyWLcNGA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/nejat/BeyleqanSebeti/wwwroot/lib/owlcarousel/owl.carousel.min.js"
     },
     {
       "Identity": "/Users/nejat/BeyleqanSebeti/obj/Release/net9.0/compressed/publish/z2noazrxg5-6jqh9kdf47.br",
@@ -710,25 +752,25 @@
       "OriginalItemSpec": "/Users/nejat/BeyleqanSebeti/wwwroot/css/bootstrap.min.css"
     },
     {
-      "Identity": "/Users/nejat/BeyleqanSebeti/obj/Release/net9.0/compressed/q464mpoafw-bvb3mcnxs0.gz",
+      "Identity": "/Users/nejat/BeyleqanSebeti/obj/Release/net9.0/compressed/publish/w6mvz3ha3r-3sqe7mmf4b.br",
       "SourceId": "BeyleqanSebeti",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/nejat/BeyleqanSebeti/obj/Release/net9.0/compressed/",
+      "ContentRoot": "/Users/nejat/BeyleqanSebeti/obj/Release/net9.0/compressed/publish/",
       "BasePath": "_content/BeyleqanSebeti",
-      "RelativePath": "lib/owlcarousel/assets/owl.theme.default.min#[.{fingerprint=bvb3mcnxs0}]?.css.gz",
+      "RelativePath": "lib/owlcarousel/assets/owl.theme.default#[.{fingerprint=3sqe7mmf4b}]?.css.br",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "/Users/nejat/BeyleqanSebeti/wwwroot/lib/owlcarousel/assets/owl.theme.default.min.css",
+      "RelatedAsset": "/Users/nejat/BeyleqanSebeti/wwwroot/lib/owlcarousel/assets/owl.theme.default.css",
       "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "Fingerprint": "guyete3equ",
-      "Integrity": "6IxNeN1yi05cKTbK2DCKJP2HWOX6GAQWkzi5kynRv5Q=",
+      "AssetTraitValue": "br",
+      "Fingerprint": "gru7jhaemd",
+      "Integrity": "hHGGnQjuiBjSfLvcHtlal+7aPca5gZ1Ki5kIS5NnSgg=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/nejat/BeyleqanSebeti/wwwroot/lib/owlcarousel/assets/owl.theme.default.min.css"
+      "OriginalItemSpec": "/Users/nejat/BeyleqanSebeti/wwwroot/lib/owlcarousel/assets/owl.theme.default.css"
     },
     {
       "Identity": "/Users/nejat/BeyleqanSebeti/obj/Release/net9.0/compressed/ufmre05cbp-xre24ck5s9.gz",
@@ -750,69 +792,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/nejat/BeyleqanSebeti/wwwroot/lib/owlcarousel/owl.carousel.min.js"
-    },
-    {
-      "Identity": "/Users/nejat/BeyleqanSebeti/obj/Release/net9.0/compressed/w6mvz3ha3r-3sqe7mmf4b.gz",
-      "SourceId": "BeyleqanSebeti",
-      "SourceType": "Discovered",
-      "ContentRoot": "/Users/nejat/BeyleqanSebeti/obj/Release/net9.0/compressed/",
-      "BasePath": "_content/BeyleqanSebeti",
-      "RelativePath": "lib/owlcarousel/assets/owl.theme.default#[.{fingerprint=3sqe7mmf4b}]?.css.gz",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "/Users/nejat/BeyleqanSebeti/wwwroot/lib/owlcarousel/assets/owl.theme.default.css",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "Fingerprint": "3btvoi0e3n",
-      "Integrity": "H8bDFMT2AtBxARErf/PyobRvLvTpaYRyO029ZF47H7w=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/nejat/BeyleqanSebeti/wwwroot/lib/owlcarousel/assets/owl.theme.default.css"
-    },
-    {
-      "Identity": "/Users/nejat/BeyleqanSebeti/obj/Release/net9.0/compressed/xur9h92n2n-ksh729199v.gz",
-      "SourceId": "BeyleqanSebeti",
-      "SourceType": "Discovered",
-      "ContentRoot": "/Users/nejat/BeyleqanSebeti/obj/Release/net9.0/compressed/",
-      "BasePath": "_content/BeyleqanSebeti",
-      "RelativePath": "css/style#[.{fingerprint=ksh729199v}]?.css.gz",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "/Users/nejat/BeyleqanSebeti/wwwroot/css/style.css",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "Fingerprint": "ghbz0qnwj0",
-      "Integrity": "5DwDP26CMKxg1Y903fVVkXDBYlt4JF9AqwQmzvku4Ug=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/nejat/BeyleqanSebeti/wwwroot/css/style.css"
-    },
-    {
-      "Identity": "/Users/nejat/BeyleqanSebeti/obj/Release/net9.0/compressed/xwuxb61r6u-1ktijcimzc.gz",
-      "SourceId": "BeyleqanSebeti",
-      "SourceType": "Discovered",
-      "ContentRoot": "/Users/nejat/BeyleqanSebeti/obj/Release/net9.0/compressed/",
-      "BasePath": "_content/BeyleqanSebeti",
-      "RelativePath": "lib/owlcarousel/assets/owl.theme.green.min#[.{fingerprint=1ktijcimzc}]?.css.gz",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "/Users/nejat/BeyleqanSebeti/wwwroot/lib/owlcarousel/assets/owl.theme.green.min.css",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "Fingerprint": "wbbxgeuxok",
-      "Integrity": "ZCB3Xfvx7andR8OERLJ5PRKTQ1n1H8SKgNOaqfyWqh8=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/nejat/BeyleqanSebeti/wwwroot/lib/owlcarousel/assets/owl.theme.green.min.css"
     },
     {
       "Identity": "/Users/nejat/BeyleqanSebeti/obj/Release/net9.0/compressed/z2noazrxg5-6jqh9kdf47.gz",
@@ -855,6 +834,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/nejat/BeyleqanSebeti/wwwroot/css/bootstrap.min.css"
+    },
+    {
+      "Identity": "/Users/nejat/BeyleqanSebeti/obj/Release/net9.0/compressed/w6mvz3ha3r-3sqe7mmf4b.gz",
+      "SourceId": "BeyleqanSebeti",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/nejat/BeyleqanSebeti/obj/Release/net9.0/compressed/",
+      "BasePath": "_content/BeyleqanSebeti",
+      "RelativePath": "lib/owlcarousel/assets/owl.theme.default#[.{fingerprint=3sqe7mmf4b}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/nejat/BeyleqanSebeti/wwwroot/lib/owlcarousel/assets/owl.theme.default.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "3btvoi0e3n",
+      "Integrity": "H8bDFMT2AtBxARErf/PyobRvLvTpaYRyO029ZF47H7w=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/nejat/BeyleqanSebeti/wwwroot/lib/owlcarousel/assets/owl.theme.default.css"
     },
     {
       "Identity": "/Users/nejat/BeyleqanSebeti/obj/Release/net9.0/scopedcss/bundle/BeyleqanSebeti.styles.css",
@@ -955,11 +955,32 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "jcqhoafqov",
+      "Integrity": "o48m6DzcyMZVJofl9Vuzdc2Zzdo5Sd0z8+4lBxLLf7c=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/img/about.jpg"
+    },
+    {
+      "Identity": "/Users/nejat/BeyleqanSebeti/wwwroot/img/about1.jpg",
+      "SourceId": "BeyleqanSebeti",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/nejat/BeyleqanSebeti/wwwroot/",
+      "BasePath": "_content/BeyleqanSebeti",
+      "RelativePath": "img/about1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
       "Fingerprint": "bxnv0srbb9",
       "Integrity": "3+oSYAklUW0Crpkglk8FtSHHHk6N5khVcEskOkJMyC8=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/img/about.jpg"
+      "OriginalItemSpec": "wwwroot/img/about1.jpg"
     },
     {
       "Identity": "/Users/nejat/BeyleqanSebeti/wwwroot/img/bg-icon.png",
@@ -1060,8 +1081,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "mudbiwyqdg",
-      "Integrity": "InNmcRMc0KDxY/0HAagkMks6Ns5Afn+Kb9SNCWXwBj4=",
+      "Fingerprint": "ozmctppjhq",
+      "Integrity": "ZJAaCXKcwA1rRMHqXnZNPaFAbwtgj/DGETMQzQPgMPM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/img/carousel-1.jpg"
@@ -1088,6 +1109,27 @@
       "OriginalItemSpec": "wwwroot/img/carousel-11.jpg"
     },
     {
+      "Identity": "/Users/nejat/BeyleqanSebeti/wwwroot/img/carousel-1eski.jpg",
+      "SourceId": "BeyleqanSebeti",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/nejat/BeyleqanSebeti/wwwroot/",
+      "BasePath": "_content/BeyleqanSebeti",
+      "RelativePath": "img/carousel-1eski#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "mudbiwyqdg",
+      "Integrity": "InNmcRMc0KDxY/0HAagkMks6Ns5Afn+Kb9SNCWXwBj4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/img/carousel-1eski.jpg"
+    },
+    {
       "Identity": "/Users/nejat/BeyleqanSebeti/wwwroot/img/carousel-2.jpg",
       "SourceId": "BeyleqanSebeti",
       "SourceType": "Discovered",
@@ -1102,8 +1144,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "7apf8pd13b",
-      "Integrity": "v0lT09DXb9QyMaGPpp2UY7LBsD5uiCQy6sSG2BCvGH8=",
+      "Fingerprint": "6iqd0rst6s",
+      "Integrity": "bhMiF9TzbE1KxngTKTWRDIxIXdUvHKQ3DXL1PEmYCBE=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/img/carousel-2.jpg"
@@ -1317,6 +1359,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/img/icon-9.jpg"
+    },
+    {
+      "Identity": "/Users/nejat/BeyleqanSebeti/wwwroot/img/icon-fast-delivery.png",
+      "SourceId": "BeyleqanSebeti",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/nejat/BeyleqanSebeti/wwwroot/",
+      "BasePath": "_content/BeyleqanSebeti",
+      "RelativePath": "img/icon-fast-delivery#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "r4zac4qizq",
+      "Integrity": "pfOWtesMqYaDz9LRT4CMOrNn7dU/3+KvzSV48iXjG0g=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/img/icon-fast-delivery.png"
     },
     {
       "Identity": "/Users/nejat/BeyleqanSebeti/wwwroot/img/product-1.jpg",
@@ -3188,27 +3251,6 @@
       "OriginalItemSpec": "wwwroot/scss/bootstrap/scss/mixins/_alert.scss"
     },
     {
-      "Identity": "/Users/nejat/BeyleqanSebeti/wwwroot/scss/bootstrap/scss/mixins/_border-radius.scss",
-      "SourceId": "BeyleqanSebeti",
-      "SourceType": "Discovered",
-      "ContentRoot": "/Users/nejat/BeyleqanSebeti/wwwroot/",
-      "BasePath": "_content/BeyleqanSebeti",
-      "RelativePath": "scss/bootstrap/scss/mixins/_border-radius#[.{fingerprint}]?.scss",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "xjld3kyvjq",
-      "Integrity": "XUHARliU19oMYbWdYoYl9U9Cjgih5cWIw+ry3wWporg=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/scss/bootstrap/scss/mixins/_border-radius.scss"
-    },
-    {
       "Identity": "/Users/nejat/BeyleqanSebeti/wwwroot/scss/bootstrap/scss/mixins/_box-shadow.scss",
       "SourceId": "BeyleqanSebeti",
       "SourceType": "Discovered",
@@ -3228,6 +3270,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/scss/bootstrap/scss/mixins/_box-shadow.scss"
+    },
+    {
+      "Identity": "/Users/nejat/BeyleqanSebeti/wwwroot/scss/bootstrap/scss/mixins/_border-radius.scss",
+      "SourceId": "BeyleqanSebeti",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/nejat/BeyleqanSebeti/wwwroot/",
+      "BasePath": "_content/BeyleqanSebeti",
+      "RelativePath": "scss/bootstrap/scss/mixins/_border-radius#[.{fingerprint}]?.scss",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "xjld3kyvjq",
+      "Integrity": "XUHARliU19oMYbWdYoYl9U9Cjgih5cWIw+ry3wWporg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/scss/bootstrap/scss/mixins/_border-radius.scss"
     },
     {
       "Identity": "/Users/nejat/BeyleqanSebeti/wwwroot/scss/bootstrap/scss/mixins/_breakpoints.scss",
@@ -5258,61 +5321,6 @@
     },
     {
       "Route": "css/style.css",
-      "AssetFile": "/Users/nejat/BeyleqanSebeti/obj/Release/net9.0/compressed/publish/xur9h92n2n-ksh729199v.br",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "br",
-          "Quality": "0.000637348630"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1568"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Lhfa22g7y16PTzLvgD0BA10YnZAyUv44onuIlv0OXGY=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 05 Apr 2025 10:29:33 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "br"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"1KvMAlZi+zt9rSQp4tp5g+bbDFQauQB9p60qQffgo9M=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-1KvMAlZi+zt9rSQp4tp5g+bbDFQauQB9p60qQffgo9M="
-        }
-      ]
-    },
-    {
-      "Route": "css/style.css",
       "AssetFile": "/Users/nejat/BeyleqanSebeti/obj/Release/net9.0/compressed/xur9h92n2n-ksh729199v.gz",
       "Selectors": [
         {
@@ -5336,7 +5344,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 05 Apr 2025 10:29:33 GMT"
+          "Value": "Tue, 08 Apr 2025 20:03:15 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5345,6 +5353,61 @@
         {
           "Name": "Content-Encoding",
           "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"1KvMAlZi+zt9rSQp4tp5g+bbDFQauQB9p60qQffgo9M=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-1KvMAlZi+zt9rSQp4tp5g+bbDFQauQB9p60qQffgo9M="
+        }
+      ]
+    },
+    {
+      "Route": "css/style.css",
+      "AssetFile": "/Users/nejat/BeyleqanSebeti/obj/Release/net9.0/compressed/publish/xur9h92n2n-ksh729199v.br",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "br",
+          "Quality": "0.000637348630"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1568"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Lhfa22g7y16PTzLvgD0BA10YnZAyUv44onuIlv0OXGY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Apr 2025 20:03:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
         },
         {
           "Name": "Vary",
@@ -5389,7 +5452,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 05 Apr 2025 10:29:33 GMT"
+          "Value": "Tue, 08 Apr 2025 20:03:15 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5426,7 +5489,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 05 Apr 2025 10:29:33 GMT"
+          "Value": "Tue, 08 Apr 2025 20:03:15 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5471,7 +5534,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 05 Apr 2025 10:29:33 GMT"
+          "Value": "Tue, 08 Apr 2025 20:03:15 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5495,12 +5558,12 @@
     },
     {
       "Route": "css/style.ksh729199v.css",
-      "AssetFile": "/Users/nejat/BeyleqanSebeti/obj/Release/net9.0/compressed/publish/xur9h92n2n-ksh729199v.br",
+      "AssetFile": "/Users/nejat/BeyleqanSebeti/obj/Release/net9.0/compressed/xur9h92n2n-ksh729199v.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
-          "Value": "br",
-          "Quality": "0.000637348630"
+          "Value": "gzip",
+          "Quality": "0.000534759358"
         }
       ],
       "ResponseHeaders": [
@@ -5510,15 +5573,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1568"
+          "Value": "1869"
         },
         {
           "Name": "ETag",
-          "Value": "\"Lhfa22g7y16PTzLvgD0BA10YnZAyUv44onuIlv0OXGY=\""
+          "Value": "\"5DwDP26CMKxg1Y903fVVkXDBYlt4JF9AqwQmzvku4Ug=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 05 Apr 2025 10:29:33 GMT"
+          "Value": "Tue, 08 Apr 2025 20:03:15 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5526,7 +5589,7 @@
         },
         {
           "Name": "Content-Encoding",
-          "Value": "br"
+          "Value": "gzip"
         },
         {
           "Name": "Vary",
@@ -5558,12 +5621,12 @@
     },
     {
       "Route": "css/style.ksh729199v.css",
-      "AssetFile": "/Users/nejat/BeyleqanSebeti/obj/Release/net9.0/compressed/xur9h92n2n-ksh729199v.gz",
+      "AssetFile": "/Users/nejat/BeyleqanSebeti/obj/Release/net9.0/compressed/publish/xur9h92n2n-ksh729199v.br",
       "Selectors": [
         {
           "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000534759358"
+          "Value": "br",
+          "Quality": "0.000637348630"
         }
       ],
       "ResponseHeaders": [
@@ -5573,15 +5636,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1869"
+          "Value": "1568"
         },
         {
           "Name": "ETag",
-          "Value": "\"5DwDP26CMKxg1Y903fVVkXDBYlt4JF9AqwQmzvku4Ug=\""
+          "Value": "\"Lhfa22g7y16PTzLvgD0BA10YnZAyUv44onuIlv0OXGY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 05 Apr 2025 10:29:33 GMT"
+          "Value": "Tue, 08 Apr 2025 20:03:15 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5589,7 +5652,7 @@
         },
         {
           "Name": "Content-Encoding",
-          "Value": "gzip"
+          "Value": "br"
         },
         {
           "Name": "Vary",
@@ -5642,7 +5705,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 05 Apr 2025 10:29:33 GMT"
+          "Value": "Tue, 08 Apr 2025 20:03:15 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5687,7 +5750,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 05 Apr 2025 10:29:33 GMT"
+          "Value": "Tue, 08 Apr 2025 20:03:15 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5740,7 +5803,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 05 Apr 2025 10:29:33 GMT"
+          "Value": "Tue, 08 Apr 2025 20:03:15 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5771,7 +5834,7 @@
       ]
     },
     {
-      "Route": "img/about.bxnv0srbb9.jpg",
+      "Route": "img/about.jcqhoafqov.jpg",
       "AssetFile": "/Users/nejat/BeyleqanSebeti/wwwroot/img/about.jpg",
       "Selectors": [],
       "ResponseHeaders": [
@@ -5781,7 +5844,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "58732"
+          "Value": "973752"
         },
         {
           "Name": "Content-Type",
@@ -5789,11 +5852,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"3+oSYAklUW0Crpkglk8FtSHHHk6N5khVcEskOkJMyC8=\""
+          "Value": "\"o48m6DzcyMZVJofl9Vuzdc2Zzdo5Sd0z8+4lBxLLf7c=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 20:13:12 GMT"
+          "Value": "Tue, 08 Apr 2025 18:14:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5803,7 +5866,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "bxnv0srbb9"
+          "Value": "jcqhoafqov"
         },
         {
           "Name": "label",
@@ -5811,7 +5874,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-3+oSYAklUW0Crpkglk8FtSHHHk6N5khVcEskOkJMyC8="
+          "Value": "sha256-o48m6DzcyMZVJofl9Vuzdc2Zzdo5Sd0z8+4lBxLLf7c="
         }
       ]
     },
@@ -5826,6 +5889,43 @@
         },
         {
           "Name": "Content-Length",
+          "Value": "973752"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"o48m6DzcyMZVJofl9Vuzdc2Zzdo5Sd0z8+4lBxLLf7c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Apr 2025 18:14:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-o48m6DzcyMZVJofl9Vuzdc2Zzdo5Sd0z8+4lBxLLf7c="
+        }
+      ]
+    },
+    {
+      "Route": "img/about1.bxnv0srbb9.jpg",
+      "AssetFile": "/Users/nejat/BeyleqanSebeti/wwwroot/img/about1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
           "Value": "58732"
         },
         {
@@ -5838,7 +5938,52 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 20:13:12 GMT"
+          "Value": "Tue, 08 Apr 2025 18:07:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bxnv0srbb9"
+        },
+        {
+          "Name": "label",
+          "Value": "img/about1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-3+oSYAklUW0Crpkglk8FtSHHHk6N5khVcEskOkJMyC8="
+        }
+      ]
+    },
+    {
+      "Route": "img/about1.jpg",
+      "AssetFile": "/Users/nejat/BeyleqanSebeti/wwwroot/img/about1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "58732"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3+oSYAklUW0Crpkglk8FtSHHHk6N5khVcEskOkJMyC8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Apr 2025 18:07:24 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6191,7 +6336,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "823966"
+          "Value": "924530"
         },
         {
           "Name": "Content-Type",
@@ -6199,11 +6344,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"InNmcRMc0KDxY/0HAagkMks6Ns5Afn+Kb9SNCWXwBj4=\""
+          "Value": "\"ZJAaCXKcwA1rRMHqXnZNPaFAbwtgj/DGETMQzQPgMPM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 04 Apr 2025 20:04:16 GMT"
+          "Value": "Tue, 08 Apr 2025 18:36:38 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6213,12 +6358,12 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-InNmcRMc0KDxY/0HAagkMks6Ns5Afn+Kb9SNCWXwBj4="
+          "Value": "sha256-ZJAaCXKcwA1rRMHqXnZNPaFAbwtgj/DGETMQzQPgMPM="
         }
       ]
     },
     {
-      "Route": "img/carousel-1.mudbiwyqdg.jpg",
+      "Route": "img/carousel-1.ozmctppjhq.jpg",
       "AssetFile": "/Users/nejat/BeyleqanSebeti/wwwroot/img/carousel-1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
@@ -6228,7 +6373,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "823966"
+          "Value": "924530"
         },
         {
           "Name": "Content-Type",
@@ -6236,11 +6381,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"InNmcRMc0KDxY/0HAagkMks6Ns5Afn+Kb9SNCWXwBj4=\""
+          "Value": "\"ZJAaCXKcwA1rRMHqXnZNPaFAbwtgj/DGETMQzQPgMPM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 04 Apr 2025 20:04:16 GMT"
+          "Value": "Tue, 08 Apr 2025 18:36:38 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6250,7 +6395,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "mudbiwyqdg"
+          "Value": "ozmctppjhq"
         },
         {
           "Name": "label",
@@ -6258,7 +6403,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-InNmcRMc0KDxY/0HAagkMks6Ns5Afn+Kb9SNCWXwBj4="
+          "Value": "sha256-ZJAaCXKcwA1rRMHqXnZNPaFAbwtgj/DGETMQzQPgMPM="
         }
       ]
     },
@@ -6345,8 +6490,8 @@
       ]
     },
     {
-      "Route": "img/carousel-2.7apf8pd13b.jpg",
-      "AssetFile": "/Users/nejat/BeyleqanSebeti/wwwroot/img/carousel-2.jpg",
+      "Route": "img/carousel-1eski.jpg",
+      "AssetFile": "/Users/nejat/BeyleqanSebeti/wwwroot/img/carousel-1eski.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6355,7 +6500,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "177596"
+          "Value": "823966"
         },
         {
           "Name": "Content-Type",
@@ -6363,11 +6508,48 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"v0lT09DXb9QyMaGPpp2UY7LBsD5uiCQy6sSG2BCvGH8=\""
+          "Value": "\"InNmcRMc0KDxY/0HAagkMks6Ns5Afn+Kb9SNCWXwBj4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 20:13:12 GMT"
+          "Value": "Fri, 04 Apr 2025 20:04:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-InNmcRMc0KDxY/0HAagkMks6Ns5Afn+Kb9SNCWXwBj4="
+        }
+      ]
+    },
+    {
+      "Route": "img/carousel-1eski.mudbiwyqdg.jpg",
+      "AssetFile": "/Users/nejat/BeyleqanSebeti/wwwroot/img/carousel-1eski.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "823966"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"InNmcRMc0KDxY/0HAagkMks6Ns5Afn+Kb9SNCWXwBj4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 04 Apr 2025 20:04:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6377,7 +6559,52 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "7apf8pd13b"
+          "Value": "mudbiwyqdg"
+        },
+        {
+          "Name": "label",
+          "Value": "img/carousel-1eski.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-InNmcRMc0KDxY/0HAagkMks6Ns5Afn+Kb9SNCWXwBj4="
+        }
+      ]
+    },
+    {
+      "Route": "img/carousel-2.6iqd0rst6s.jpg",
+      "AssetFile": "/Users/nejat/BeyleqanSebeti/wwwroot/img/carousel-2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "670950"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bhMiF9TzbE1KxngTKTWRDIxIXdUvHKQ3DXL1PEmYCBE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Apr 2025 18:43:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6iqd0rst6s"
         },
         {
           "Name": "label",
@@ -6385,7 +6612,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-v0lT09DXb9QyMaGPpp2UY7LBsD5uiCQy6sSG2BCvGH8="
+          "Value": "sha256-bhMiF9TzbE1KxngTKTWRDIxIXdUvHKQ3DXL1PEmYCBE="
         }
       ]
     },
@@ -6400,7 +6627,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "177596"
+          "Value": "670950"
         },
         {
           "Name": "Content-Type",
@@ -6408,11 +6635,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"v0lT09DXb9QyMaGPpp2UY7LBsD5uiCQy6sSG2BCvGH8=\""
+          "Value": "\"bhMiF9TzbE1KxngTKTWRDIxIXdUvHKQ3DXL1PEmYCBE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 20:13:12 GMT"
+          "Value": "Tue, 08 Apr 2025 18:43:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6422,7 +6649,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-v0lT09DXb9QyMaGPpp2UY7LBsD5uiCQy6sSG2BCvGH8="
+          "Value": "sha256-bhMiF9TzbE1KxngTKTWRDIxIXdUvHKQ3DXL1PEmYCBE="
         }
       ]
     },
@@ -7243,6 +7470,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-4ObeO13AB3tOr4gqVH5gIHHwiNSIVKzi13ts/lLTMvw="
+        }
+      ]
+    },
+    {
+      "Route": "img/icon-fast-delivery.png",
+      "AssetFile": "/Users/nejat/BeyleqanSebeti/wwwroot/img/icon-fast-delivery.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1217120"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pfOWtesMqYaDz9LRT4CMOrNn7dU/3+KvzSV48iXjG0g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Apr 2025 19:07:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-pfOWtesMqYaDz9LRT4CMOrNn7dU/3+KvzSV48iXjG0g="
+        }
+      ]
+    },
+    {
+      "Route": "img/icon-fast-delivery.r4zac4qizq.png",
+      "AssetFile": "/Users/nejat/BeyleqanSebeti/wwwroot/img/icon-fast-delivery.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1217120"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pfOWtesMqYaDz9LRT4CMOrNn7dU/3+KvzSV48iXjG0g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Apr 2025 19:07:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "r4zac4qizq"
+        },
+        {
+          "Name": "label",
+          "Value": "img/icon-fast-delivery.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-pfOWtesMqYaDz9LRT4CMOrNn7dU/3+KvzSV48iXjG0g="
         }
       ]
     },
@@ -12426,69 +12735,6 @@
     },
     {
       "Route": "lib/owlcarousel/assets/owl.theme.default.min.bvb3mcnxs0.css",
-      "AssetFile": "/Users/nejat/BeyleqanSebeti/obj/Release/net9.0/compressed/publish/q464mpoafw-bvb3mcnxs0.br",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "br",
-          "Quality": "0.003367003367"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "296"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"y9DP+2b96U2XXcJD6Ifxdnd7oSaeDbjqGSwQ+CwbYEI=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 20:13:20 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "br"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"KWs9jp+jZzOZmmnW5jC8Y2HqI9rajJig5I00un99DtI=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "bvb3mcnxs0"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/owlcarousel/assets/owl.theme.default.min.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-KWs9jp+jZzOZmmnW5jC8Y2HqI9rajJig5I00un99DtI="
-        }
-      ]
-    },
-    {
-      "Route": "lib/owlcarousel/assets/owl.theme.default.min.bvb3mcnxs0.css",
       "AssetFile": "/Users/nejat/BeyleqanSebeti/obj/Release/net9.0/compressed/q464mpoafw-bvb3mcnxs0.gz",
       "Selectors": [
         {
@@ -12521,6 +12767,69 @@
         {
           "Name": "Content-Encoding",
           "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"KWs9jp+jZzOZmmnW5jC8Y2HqI9rajJig5I00un99DtI=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bvb3mcnxs0"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/owlcarousel/assets/owl.theme.default.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-KWs9jp+jZzOZmmnW5jC8Y2HqI9rajJig5I00un99DtI="
+        }
+      ]
+    },
+    {
+      "Route": "lib/owlcarousel/assets/owl.theme.default.min.bvb3mcnxs0.css",
+      "AssetFile": "/Users/nejat/BeyleqanSebeti/obj/Release/net9.0/compressed/publish/q464mpoafw-bvb3mcnxs0.br",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "br",
+          "Quality": "0.003367003367"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "296"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"y9DP+2b96U2XXcJD6Ifxdnd7oSaeDbjqGSwQ+CwbYEI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 20:13:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
         },
         {
           "Name": "Vary",
@@ -12703,61 +13012,6 @@
     },
     {
       "Route": "lib/owlcarousel/assets/owl.theme.default.min.css",
-      "AssetFile": "/Users/nejat/BeyleqanSebeti/obj/Release/net9.0/compressed/publish/q464mpoafw-bvb3mcnxs0.br",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "br",
-          "Quality": "0.003367003367"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "296"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"y9DP+2b96U2XXcJD6Ifxdnd7oSaeDbjqGSwQ+CwbYEI=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 20:13:20 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "br"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"KWs9jp+jZzOZmmnW5jC8Y2HqI9rajJig5I00un99DtI=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-KWs9jp+jZzOZmmnW5jC8Y2HqI9rajJig5I00un99DtI="
-        }
-      ]
-    },
-    {
-      "Route": "lib/owlcarousel/assets/owl.theme.default.min.css",
       "AssetFile": "/Users/nejat/BeyleqanSebeti/obj/Release/net9.0/compressed/q464mpoafw-bvb3mcnxs0.gz",
       "Selectors": [
         {
@@ -12790,6 +13044,61 @@
         {
           "Name": "Content-Encoding",
           "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"KWs9jp+jZzOZmmnW5jC8Y2HqI9rajJig5I00un99DtI=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-KWs9jp+jZzOZmmnW5jC8Y2HqI9rajJig5I00un99DtI="
+        }
+      ]
+    },
+    {
+      "Route": "lib/owlcarousel/assets/owl.theme.default.min.css",
+      "AssetFile": "/Users/nejat/BeyleqanSebeti/obj/Release/net9.0/compressed/publish/q464mpoafw-bvb3mcnxs0.br",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "br",
+          "Quality": "0.003367003367"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "296"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"y9DP+2b96U2XXcJD6Ifxdnd7oSaeDbjqGSwQ+CwbYEI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 20:13:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
         },
         {
           "Name": "Vary",
@@ -13177,69 +13486,6 @@
     },
     {
       "Route": "lib/owlcarousel/assets/owl.theme.green.min.1ktijcimzc.css",
-      "AssetFile": "/Users/nejat/BeyleqanSebeti/obj/Release/net9.0/compressed/publish/xwuxb61r6u-1ktijcimzc.br",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "br",
-          "Quality": "0.003367003367"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "296"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"O+j4KQbv+xO1n5UWebijNdY7owCJzbhOX444BlMIYqQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 20:13:20 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "br"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"31YwmAV/78ytUf3h39V8ucjb5m8PXlJBCPlPqjgdMCM=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "1ktijcimzc"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/owlcarousel/assets/owl.theme.green.min.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-31YwmAV/78ytUf3h39V8ucjb5m8PXlJBCPlPqjgdMCM="
-        }
-      ]
-    },
-    {
-      "Route": "lib/owlcarousel/assets/owl.theme.green.min.1ktijcimzc.css",
       "AssetFile": "/Users/nejat/BeyleqanSebeti/obj/Release/net9.0/compressed/xwuxb61r6u-1ktijcimzc.gz",
       "Selectors": [
         {
@@ -13272,6 +13518,69 @@
         {
           "Name": "Content-Encoding",
           "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"31YwmAV/78ytUf3h39V8ucjb5m8PXlJBCPlPqjgdMCM=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1ktijcimzc"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/owlcarousel/assets/owl.theme.green.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-31YwmAV/78ytUf3h39V8ucjb5m8PXlJBCPlPqjgdMCM="
+        }
+      ]
+    },
+    {
+      "Route": "lib/owlcarousel/assets/owl.theme.green.min.1ktijcimzc.css",
+      "AssetFile": "/Users/nejat/BeyleqanSebeti/obj/Release/net9.0/compressed/publish/xwuxb61r6u-1ktijcimzc.br",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "br",
+          "Quality": "0.003367003367"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "296"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"O+j4KQbv+xO1n5UWebijNdY7owCJzbhOX444BlMIYqQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 20:13:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
         },
         {
           "Name": "Vary",
@@ -13454,61 +13763,6 @@
     },
     {
       "Route": "lib/owlcarousel/assets/owl.theme.green.min.css",
-      "AssetFile": "/Users/nejat/BeyleqanSebeti/obj/Release/net9.0/compressed/publish/xwuxb61r6u-1ktijcimzc.br",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "br",
-          "Quality": "0.003367003367"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "296"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"O+j4KQbv+xO1n5UWebijNdY7owCJzbhOX444BlMIYqQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 20:13:20 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "br"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"31YwmAV/78ytUf3h39V8ucjb5m8PXlJBCPlPqjgdMCM=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-31YwmAV/78ytUf3h39V8ucjb5m8PXlJBCPlPqjgdMCM="
-        }
-      ]
-    },
-    {
-      "Route": "lib/owlcarousel/assets/owl.theme.green.min.css",
       "AssetFile": "/Users/nejat/BeyleqanSebeti/obj/Release/net9.0/compressed/xwuxb61r6u-1ktijcimzc.gz",
       "Selectors": [
         {
@@ -13541,6 +13795,61 @@
         {
           "Name": "Content-Encoding",
           "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"31YwmAV/78ytUf3h39V8ucjb5m8PXlJBCPlPqjgdMCM=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-31YwmAV/78ytUf3h39V8ucjb5m8PXlJBCPlPqjgdMCM="
+        }
+      ]
+    },
+    {
+      "Route": "lib/owlcarousel/assets/owl.theme.green.min.css",
+      "AssetFile": "/Users/nejat/BeyleqanSebeti/obj/Release/net9.0/compressed/publish/xwuxb61r6u-1ktijcimzc.br",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "br",
+          "Quality": "0.003367003367"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "296"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"O+j4KQbv+xO1n5UWebijNdY7owCJzbhOX444BlMIYqQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 20:13:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
         },
         {
           "Name": "Vary",
@@ -14645,243 +14954,6 @@
       ]
     },
     {
-      "Route": "lib/owlcarousel/owl.carousel.min.js",
-      "AssetFile": "/Users/nejat/BeyleqanSebeti/obj/Release/net9.0/compressed/publish/ufmre05cbp-xre24ck5s9.br",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "br",
-          "Quality": "0.000102880658"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "9719"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"rPvwrluyYIugUvodnsHMsI81noheN6bqH0wyyWLcNGA=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 20:13:20 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "br"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"s5TTOyp+xlSmsDfr/aZhg0Gz+JejYr5iTJI8JxG1SkM=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-s5TTOyp+xlSmsDfr/aZhg0Gz+JejYr5iTJI8JxG1SkM="
-        }
-      ]
-    },
-    {
-      "Route": "lib/owlcarousel/owl.carousel.min.js",
-      "AssetFile": "/Users/nejat/BeyleqanSebeti/obj/Release/net9.0/compressed/ufmre05cbp-xre24ck5s9.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000091058095"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "10981"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"cIXDKjPuiz0apNTo851vxf/NePFxZfVKldSzcvS5AsU=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 20:13:20 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"s5TTOyp+xlSmsDfr/aZhg0Gz+JejYr5iTJI8JxG1SkM=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-s5TTOyp+xlSmsDfr/aZhg0Gz+JejYr5iTJI8JxG1SkM="
-        }
-      ]
-    },
-    {
-      "Route": "lib/owlcarousel/owl.carousel.min.js",
-      "AssetFile": "/Users/nejat/BeyleqanSebeti/wwwroot/lib/owlcarousel/owl.carousel.min.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "42766"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"s5TTOyp+xlSmsDfr/aZhg0Gz+JejYr5iTJI8JxG1SkM=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 20:13:20 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-s5TTOyp+xlSmsDfr/aZhg0Gz+JejYr5iTJI8JxG1SkM="
-        }
-      ]
-    },
-    {
-      "Route": "lib/owlcarousel/owl.carousel.min.js.br",
-      "AssetFile": "/Users/nejat/BeyleqanSebeti/obj/Release/net9.0/compressed/publish/ufmre05cbp-xre24ck5s9.br",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "9719"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"rPvwrluyYIugUvodnsHMsI81noheN6bqH0wyyWLcNGA=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 20:13:20 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "br"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-rPvwrluyYIugUvodnsHMsI81noheN6bqH0wyyWLcNGA="
-        }
-      ]
-    },
-    {
-      "Route": "lib/owlcarousel/owl.carousel.min.js.gz",
-      "AssetFile": "/Users/nejat/BeyleqanSebeti/obj/Release/net9.0/compressed/ufmre05cbp-xre24ck5s9.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "10981"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"cIXDKjPuiz0apNTo851vxf/NePFxZfVKldSzcvS5AsU=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 20:13:20 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-cIXDKjPuiz0apNTo851vxf/NePFxZfVKldSzcvS5AsU="
-        }
-      ]
-    },
-    {
       "Route": "lib/owlcarousel/owl.carousel.min.xre24ck5s9.js",
       "AssetFile": "/Users/nejat/BeyleqanSebeti/obj/Release/net9.0/compressed/publish/ufmre05cbp-xre24ck5s9.br",
       "Selectors": [
@@ -15152,6 +15224,243 @@
           "Name": "label",
           "Value": "lib/owlcarousel/owl.carousel.min.js.gz"
         },
+        {
+          "Name": "integrity",
+          "Value": "sha256-cIXDKjPuiz0apNTo851vxf/NePFxZfVKldSzcvS5AsU="
+        }
+      ]
+    },
+    {
+      "Route": "lib/owlcarousel/owl.carousel.min.js",
+      "AssetFile": "/Users/nejat/BeyleqanSebeti/obj/Release/net9.0/compressed/publish/ufmre05cbp-xre24ck5s9.br",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "br",
+          "Quality": "0.000102880658"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9719"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rPvwrluyYIugUvodnsHMsI81noheN6bqH0wyyWLcNGA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 20:13:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"s5TTOyp+xlSmsDfr/aZhg0Gz+JejYr5iTJI8JxG1SkM=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-s5TTOyp+xlSmsDfr/aZhg0Gz+JejYr5iTJI8JxG1SkM="
+        }
+      ]
+    },
+    {
+      "Route": "lib/owlcarousel/owl.carousel.min.js",
+      "AssetFile": "/Users/nejat/BeyleqanSebeti/obj/Release/net9.0/compressed/ufmre05cbp-xre24ck5s9.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000091058095"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10981"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cIXDKjPuiz0apNTo851vxf/NePFxZfVKldSzcvS5AsU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 20:13:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"s5TTOyp+xlSmsDfr/aZhg0Gz+JejYr5iTJI8JxG1SkM=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-s5TTOyp+xlSmsDfr/aZhg0Gz+JejYr5iTJI8JxG1SkM="
+        }
+      ]
+    },
+    {
+      "Route": "lib/owlcarousel/owl.carousel.min.js",
+      "AssetFile": "/Users/nejat/BeyleqanSebeti/wwwroot/lib/owlcarousel/owl.carousel.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "42766"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"s5TTOyp+xlSmsDfr/aZhg0Gz+JejYr5iTJI8JxG1SkM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 20:13:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-s5TTOyp+xlSmsDfr/aZhg0Gz+JejYr5iTJI8JxG1SkM="
+        }
+      ]
+    },
+    {
+      "Route": "lib/owlcarousel/owl.carousel.min.js.br",
+      "AssetFile": "/Users/nejat/BeyleqanSebeti/obj/Release/net9.0/compressed/publish/ufmre05cbp-xre24ck5s9.br",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9719"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rPvwrluyYIugUvodnsHMsI81noheN6bqH0wyyWLcNGA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 20:13:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-rPvwrluyYIugUvodnsHMsI81noheN6bqH0wyyWLcNGA="
+        }
+      ]
+    },
+    {
+      "Route": "lib/owlcarousel/owl.carousel.min.js.gz",
+      "AssetFile": "/Users/nejat/BeyleqanSebeti/obj/Release/net9.0/compressed/ufmre05cbp-xre24ck5s9.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10981"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cIXDKjPuiz0apNTo851vxf/NePFxZfVKldSzcvS5AsU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 20:13:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
         {
           "Name": "integrity",
           "Value": "sha256-cIXDKjPuiz0apNTo851vxf/NePFxZfVKldSzcvS5AsU="
@@ -19325,43 +19634,6 @@
       ]
     },
     {
-      "Route": "scss/bootstrap/scss/_tooltip.scss",
-      "AssetFile": "/Users/nejat/BeyleqanSebeti/wwwroot/scss/bootstrap/scss/_tooltip.scss",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "2602"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"AUZWGlkebg12HUfkYm9tDukdJkzPKUqQXnapsFDmTyY=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 20:13:28 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-AUZWGlkebg12HUfkYm9tDukdJkzPKUqQXnapsFDmTyY="
-        }
-      ]
-    },
-    {
       "Route": "scss/bootstrap/scss/_tooltip.xsfo4jn76o.scss",
       "AssetFile": "/Users/nejat/BeyleqanSebeti/wwwroot/scss/bootstrap/scss/_tooltip.scss",
       "Selectors": [],
@@ -19400,6 +19672,43 @@
           "Name": "label",
           "Value": "scss/bootstrap/scss/_tooltip.scss"
         },
+        {
+          "Name": "integrity",
+          "Value": "sha256-AUZWGlkebg12HUfkYm9tDukdJkzPKUqQXnapsFDmTyY="
+        }
+      ]
+    },
+    {
+      "Route": "scss/bootstrap/scss/_tooltip.scss",
+      "AssetFile": "/Users/nejat/BeyleqanSebeti/wwwroot/scss/bootstrap/scss/_tooltip.scss",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2602"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"AUZWGlkebg12HUfkYm9tDukdJkzPKUqQXnapsFDmTyY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 20:13:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
         {
           "Name": "integrity",
           "Value": "sha256-AUZWGlkebg12HUfkYm9tDukdJkzPKUqQXnapsFDmTyY="
@@ -21457,88 +21766,6 @@
       ]
     },
     {
-      "Route": "scss/bootstrap/scss/mixins/_border-radius.scss",
-      "AssetFile": "/Users/nejat/BeyleqanSebeti/wwwroot/scss/bootstrap/scss/mixins/_border-radius.scss",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "2031"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"XUHARliU19oMYbWdYoYl9U9Cjgih5cWIw+ry3wWporg=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 20:13:28 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-XUHARliU19oMYbWdYoYl9U9Cjgih5cWIw+ry3wWporg="
-        }
-      ]
-    },
-    {
-      "Route": "scss/bootstrap/scss/mixins/_border-radius.xjld3kyvjq.scss",
-      "AssetFile": "/Users/nejat/BeyleqanSebeti/wwwroot/scss/bootstrap/scss/mixins/_border-radius.scss",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "2031"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"XUHARliU19oMYbWdYoYl9U9Cjgih5cWIw+ry3wWporg=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 20:13:28 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "xjld3kyvjq"
-        },
-        {
-          "Name": "label",
-          "Value": "scss/bootstrap/scss/mixins/_border-radius.scss"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-XUHARliU19oMYbWdYoYl9U9Cjgih5cWIw+ry3wWporg="
-        }
-      ]
-    },
-    {
       "Route": "scss/bootstrap/scss/mixins/_box-shadow.mh3zh7muu9.scss",
       "AssetFile": "/Users/nejat/BeyleqanSebeti/wwwroot/scss/bootstrap/scss/mixins/_box-shadow.scss",
       "Selectors": [],
@@ -21617,6 +21844,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-lvaPre4KsM3hpZrviVsL+4y31sIPXwKM+fJzo9gpNyY="
+        }
+      ]
+    },
+    {
+      "Route": "scss/bootstrap/scss/mixins/_border-radius.xjld3kyvjq.scss",
+      "AssetFile": "/Users/nejat/BeyleqanSebeti/wwwroot/scss/bootstrap/scss/mixins/_border-radius.scss",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2031"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XUHARliU19oMYbWdYoYl9U9Cjgih5cWIw+ry3wWporg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 20:13:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xjld3kyvjq"
+        },
+        {
+          "Name": "label",
+          "Value": "scss/bootstrap/scss/mixins/_border-radius.scss"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-XUHARliU19oMYbWdYoYl9U9Cjgih5cWIw+ry3wWporg="
+        }
+      ]
+    },
+    {
+      "Route": "scss/bootstrap/scss/mixins/_border-radius.scss",
+      "AssetFile": "/Users/nejat/BeyleqanSebeti/wwwroot/scss/bootstrap/scss/mixins/_border-radius.scss",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2031"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XUHARliU19oMYbWdYoYl9U9Cjgih5cWIw+ry3wWporg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 20:13:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-XUHARliU19oMYbWdYoYl9U9Cjgih5cWIw+ry3wWporg="
         }
       ]
     },
@@ -21949,43 +22258,6 @@
       ]
     },
     {
-      "Route": "scss/bootstrap/scss/mixins/_color-scheme.scss",
-      "AssetFile": "/Users/nejat/BeyleqanSebeti/wwwroot/scss/bootstrap/scss/mixins/_color-scheme.scss",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "167"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"PUQkIqq/GAkEs5pOBHwJmzks8Z5D8WY0g6wo6RUC1aU=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 20:13:28 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-PUQkIqq/GAkEs5pOBHwJmzks8Z5D8WY0g6wo6RUC1aU="
-        }
-      ]
-    },
-    {
       "Route": "scss/bootstrap/scss/mixins/_color-scheme.x7qus63z9u.scss",
       "AssetFile": "/Users/nejat/BeyleqanSebeti/wwwroot/scss/bootstrap/scss/mixins/_color-scheme.scss",
       "Selectors": [],
@@ -22024,6 +22296,43 @@
           "Name": "label",
           "Value": "scss/bootstrap/scss/mixins/_color-scheme.scss"
         },
+        {
+          "Name": "integrity",
+          "Value": "sha256-PUQkIqq/GAkEs5pOBHwJmzks8Z5D8WY0g6wo6RUC1aU="
+        }
+      ]
+    },
+    {
+      "Route": "scss/bootstrap/scss/mixins/_color-scheme.scss",
+      "AssetFile": "/Users/nejat/BeyleqanSebeti/wwwroot/scss/bootstrap/scss/mixins/_color-scheme.scss",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "167"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PUQkIqq/GAkEs5pOBHwJmzks8Z5D8WY0g6wo6RUC1aU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 20:13:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
         {
           "Name": "integrity",
           "Value": "sha256-PUQkIqq/GAkEs5pOBHwJmzks8Z5D8WY0g6wo6RUC1aU="
@@ -23343,43 +23652,6 @@
       ]
     },
     {
-      "Route": "scss/bootstrap/scss/utilities/_api.scss",
-      "AssetFile": "/Users/nejat/BeyleqanSebeti/wwwroot/scss/bootstrap/scss/utilities/_api.scss",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1737"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"J1u2wMqzSJbTzd0+7iuJfJaklC1YIWRtuZssLZJSpJw=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 20:13:28 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-J1u2wMqzSJbTzd0+7iuJfJaklC1YIWRtuZssLZJSpJw="
-        }
-      ]
-    },
-    {
       "Route": "scss/bootstrap/scss/utilities/_api.xmez0gzoln.scss",
       "AssetFile": "/Users/nejat/BeyleqanSebeti/wwwroot/scss/bootstrap/scss/utilities/_api.scss",
       "Selectors": [],
@@ -23418,6 +23690,43 @@
           "Name": "label",
           "Value": "scss/bootstrap/scss/utilities/_api.scss"
         },
+        {
+          "Name": "integrity",
+          "Value": "sha256-J1u2wMqzSJbTzd0+7iuJfJaklC1YIWRtuZssLZJSpJw="
+        }
+      ]
+    },
+    {
+      "Route": "scss/bootstrap/scss/utilities/_api.scss",
+      "AssetFile": "/Users/nejat/BeyleqanSebeti/wwwroot/scss/bootstrap/scss/utilities/_api.scss",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1737"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"J1u2wMqzSJbTzd0+7iuJfJaklC1YIWRtuZssLZJSpJw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 20:13:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
         {
           "Name": "integrity",
           "Value": "sha256-J1u2wMqzSJbTzd0+7iuJfJaklC1YIWRtuZssLZJSpJw="
